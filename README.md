@@ -4,6 +4,12 @@
 <p align="center">
   <img src="images/project-cover.png" alt="Gurgaon Real Estate Market & Opportunity Analytics" width="100%">
 </p>
+
+  <p align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiMTE2YTIyOTAtMTg5My00ZDUzLWI1MDAtNWI1OTI0YWYyZDcxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=0962e69e2cd01d3a50ec">
+    <strong>↗ View Interactive Power BI Dashboard</strong>
+  </a>
+</p>
 </CodeBlock>
 ```
 
