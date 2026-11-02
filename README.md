@@ -10,8 +10,7 @@
     <strong>↗ View Interactive Power BI Dashboard</strong>
   </a>
 </p>
-</CodeBlock>
-```
+
 
 
 ### 99acres · Python EDA · Power BI · Residential Sales & Rental Markets
