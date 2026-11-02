@@ -1,0 +1,550 @@
+PROP_ID,PROP_NAME,PREFERENCE,CITY,LOCALITY,PROPERTY_TYPE,BHK,BATHROOM_NUM,BALCONY_NUM,FLOOR_NUM,TOTAL_FLOOR,AREA,PRICE,FURNISH,FACING,AGE,BROKERAGE,CONTACT_COMPANY_NAME,CLASS_LABEL,SOCIETY_NAME,PRICE_SQFT
+D71549524,Emaar MGF The Palm Drive,R,Gurgaon,Sector 66 Gurgaon,Residential Apartment,3.0,3,2.0,7.0,17.0,1950.0,85000.0,1,4,1,42000.0,1st Nest Realtors,Dealer,Emaar MGF The Palm Drive,44.0
+H71479412,ATS Triumph,R,Gurgaon,Sector 104 Gurgaon,Residential Apartment,3.0,4,4.0,12.0,27.0,2290.0,40000.0,4,6,1,1.0,GROW MORE,Dealer,ATS Triumph,17.0
+Y71474260,ATS Triumph,R,Gurgaon,Sector 104 Gurgaon,Residential Apartment,4.0,4,4.0,7.0,27.0,3150.0,45000.0,4,8,1,1.0,GROW MORE,Dealer,ATS Triumph,14.0
+U71402258,Emaar MGF The Palm Drive,R,Gurgaon,Sector 66 Gurgaon,Residential Apartment,3.0,3,2.0,6.0,17.0,1950.0,70000.0,4,4,1,35000.0,1st Nest Realtors,Dealer,Emaar MGF The Palm Drive,36.0
+D71285594,Pioneer Park,R,Gurgaon,Sector 61 Gurgaon,Residential Apartment,4.0,5,4.0,6.0,14.0,2690.0,85000.0,4,1,1,0.0,OPTUS HOUSING,Dealer,Pioneer Park,32.0
+B71209556,Ireo Skyon,R,Gurgaon,Sector 60 Gurgaon,Residential Apartment,3.0,3,2.0,5.0,9.0,2403.0,72000.0,4,3,1,0.0,OPTUS HOUSING,Dealer,Ireo Skyon,30.0
+Y71171970,La Vida by Tata Housing,R,Gurgaon,Sector 113 Gurgaon ,Residential Apartment,2.0,2,3.0,8.0,13.0,1330.0,43500.0,1,5,6,21750.0,Four corners,Dealer,La Vida by Tata Housing,33.0
+X71125180,M3M Skywalk,R,Gurgaon,Sector 74 Gurgaon,Residential Apartment,3.0,3,3.0,9.0,30.0,2000.0,65000.0,4,3,6,65000.0,Trust4u,Dealer,M3M Skywalk,32.0
+A71058046,Pioneer Araya,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,4.0,6,2.0,7.0,34.0,4280.0,50000.0,4,5,1,0.0,OPTUS HOUSING,Dealer,Pioneer Araya,12.0
+B71036598,Conscient Heritage One,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,3.0,3,4.0,9.0,25.0,1996.0,62000.0,4,5,1,0.0,OPTUS HOUSING,Dealer,Conscient Heritage One,31.0
+E71035334,Conscient Heritage One,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,4.0,4,4.0,11.0,25.0,2527.0,75000.0,4,5,1,0.0,OPTUS HOUSING,Dealer,Conscient Heritage One,30.0
+E70996706,Pioneer Urban Presidia,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,4.0,5,4.0,14.0,27.0,3104.0,50000.0,4,1,1,0.0,OPTUS HOUSING,Dealer,Pioneer Urban Presidia,16.0
+R70996352,Pioneer Araya,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,4.0,6,4.0,30.0,34.0,7673.0,50000.0,4,1,1,0.0,OPTUS HOUSING,Dealer,Pioneer Araya,7.0
+I70970198,Emaar The Palm Springs,R,Gurgaon,Sector 54 Gurgaon,Residential Apartment,3.0,5,3.0,14.0,17.0,2875.0,50000.0,1,1,3,120000.0,OPTUS HOUSING,Dealer,Emaar The Palm Springs,17.0
+R70967778,DLF Park Place,R,Gurgaon,Sector 54 Gurgaon,Residential Apartment,3.0,4,4.0,25.0,30.0,2200.0,50000.0,1,1,1,100000.0,OPTUS HOUSING,Dealer,DLF Park Place,23.0
+F70954534,Puri Emerald Bay,R,Gurgaon,Sector 104 Gurgaon,Residential Apartment,3.0,4,3.0,12.0,29.0,2450.0,45000.0,4,5,1,22500.0,Four corners,Dealer,Puri Emerald Bay,18.0
+H70941334,DLF Park Place,R,Gurgaon,Sector 54 Gurgaon,Residential Apartment,3.0,4,4.0,12.0,30.0,2150.0,50000.0,1,0,1,87000.0,OPTUS HOUSING,Dealer,DLF Park Place,23.0
+O70941024,Ireo Skyon,R,Gurgaon,Sector 60 Gurgaon,Residential Apartment,3.0,3,3.0,6.0,39.0,2045.0,75000.0,4,5,1,37500.0,OPTUS HOUSING,Dealer,Ireo Skyon,37.0
+I70936440,Parsvnath Exotica,R,Gurgaon,Sector 53 Gurgaon,Residential Apartment,4.0,6,3.0,5.0,18.0,3390.0,50000.0,4,1,2,75000.0,OPTUS HOUSING,Dealer,Parsvnath Exotica,15.0
+G70935918,DLF Park Place,R,Gurgaon,Sector 54 Gurgaon,Residential Apartment,3.0,4,4.0,14.0,30.0,2300.0,50000.0,4,5,1,75000.0,OPTUS HOUSING,Dealer,DLF Park Place,22.0
+A70832332,Emaar Digihomes,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,2.0,2,2.0,18.0,32.0,1508.0,70000.0,4,0,6,35000.0,get home fix ,Dealer,Emaar Digihomes,46.0
+H71577768,Emaar Digihomes,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,2.0,2,2.0,8.0,32.0,1508.0,62000.0,4,5,6,30000.0,Bajrang Associates,Dealer,Emaar Digihomes,41.0
+B71623816,Conscient Heritage One,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,4.0,4,4.0,16.0,25.0,2527.0,75000.0,4,5,2,35000.0,Bajrang Associates,Dealer,Conscient Heritage One,30.0
+I71495202,Unknown,R,Gurgaon,DLF Phase 2,Independent/Builder Floor,4.0,4,3.0,2.0,4.0,2700.0,50000.0,4,6,6,0.0,Good Will Property,Dealer,Unknown,19.0
+P4884201,DLF Wellington Estate,R,Gurgaon,DLF Phase 5,Residential Apartment,4.0,4,2.0,7.0,15.0,1750.0,80000.0,4,5,2,40000.0,VN Realtors and Advisors,Dealer,DLF Wellington Estate,46.0
+S71682856,Unknown,R,Gurgaon,Sector 55 Gurgaon,Independent/Builder Floor,2.0,2,1.0,3.0,3.0,1440.0,35000.0,4,3,1,15.0,Millennial Estates,Dealer,Unknown,24.0
+R71668556,DLF Exclusive Floors,R,Gurgaon,DLF Phase 5,Independent/Builder Floor,3.0,3,2.0,6.0,3.0,1925.0,75000.0,1,1,3,40000.0,Warisha property,Dealer,DLF Exclusive Floors,39.0
+T71650508,DLF Exclusive Floors,R,Gurgaon,DLF Phase 5,Independent/Builder Floor,3.0,3,2.0,1.0,3.0,1852.0,70000.0,1,3,3,40000.0,Warisha property,Dealer,DLF Exclusive Floors,38.0
+W71629684,Central Park Resorts,R,Gurgaon,Sector 48 Gurgaon,Residential Apartment,2.0,2,3.0,7.0,17.0,1676.0,95500.0,4,5,1,50.0,Brand I consulting,Dealer,Central Park Resorts,57.0
+K71620204,Central Park The Room,R,Gurgaon,Sector 48 Gurgaon,Residential Apartment,1.0,1,0.0,8.0,17.0,837.0,60000.0,1,5,1,50.0,Brand I consulting,Dealer,Central Park The Room,72.0
+L71588254,DLF Beverly Park,R,Gurgaon,DLF Phase 2,Residential Apartment,3.0,4,4.0,2.0,12.0,2650.0,50000.0,4,3,2,100000.0,Manchanda Realtors Pvt. Ltd.,Dealer,DLF Beverly Park,19.0
+A71354440,Ramprastha Primera,R,Gurgaon,Sector 37D Gurgaon,Residential Apartment,3.0,3,4.0,16.0,22.0,1800.0,29000.0,4,3,1,15000.0,Rawat Properties,Dealer,Ramprastha Primera,16.0
+O71473064,Ramprastha Primera,R,Gurgaon,Sector 37D Gurgaon,Residential Apartment,3.0,3,4.0,1.0,22.0,1800.0,39000.0,1,3,6,20000.0,Rawat Properties,Dealer,Ramprastha Primera,22.0
+D71354832,Ramprastha The Atrium,R,Gurgaon,Sector 37D Gurgaon,Residential Apartment,3.0,3,2.0,6.0,13.0,1185.0,19200.0,4,5,1,10000.0,Rawat Properties,Dealer,Ramprastha The Atrium,16.0
+K71507830,Suncity Essel Towers,R,Gurgaon,Sector 28 Gurgaon,Residential Apartment,3.0,3,3.0,3.0,17.0,1750.0,65000.0,1,1,3,40000.0,Millennium Real Estate,Dealer,Suncity Essel Towers,37.0
+U71498480,DLF Belvedere Park,R,Gurgaon,DLF Phase 2,Residential Apartment,4.0,4,2.0,11.0,20.0,1711.0,60000.0,4,3,3,60000.0,Manchanda Realtors Pvt. Ltd.,Dealer,DLF Belvedere Park,35.0
+Q71498398,La Lagune,R,Gurgaon,Sector 54 Gurgaon,Residential Apartment,4.0,6,2.0,9.0,18.0,3160.0,50000.0,4,1,2,160000.0,Manchanda Realtors Pvt. Ltd.,Dealer,La Lagune,16.0
+S71498344,DLF The Belaire,R,Gurgaon,Sector 54 Gurgaon,Residential Apartment,4.0,4,4.0,2.0,30.0,2917.0,50000.0,1,3,2,20000.0,Manchanda Realtors Pvt. Ltd.,Dealer,DLF The Belaire,17.0
+Q71472390,Central Park The Room,R,Gurgaon,Sector 48 Gurgaon,Residential Apartment,1.0,1,1.0,9.0,17.0,935.0,75000.0,1,5,1,50.0,Brand I consulting,Dealer,Central Park The Room,80.0
+H71357112,Unknown,R,Gurgaon,"Block C, Sushant Lok Phase 1",Independent House/Villa,8.0,9,4.0,6.0,3.0,1935.0,50000.0,1,3,2,200000.0,Manchanda Realtors Pvt. Ltd.,Dealer,Unknown,26.0
+N71350842,Shapoorji Pallonji Joyville Gurugram,R,Gurgaon,Sector 102 Gurgaon,Residential Apartment,3.0,3,3.0,6.0,26.0,1852.0,33000.0,4,5,1,15.0,Onkar Real Estate Solutions,Dealer,Shapoorji Pallonji Joyville Gurugram,18.0
+Z71336202,Unknown,R,Gurgaon,DLF Phase 1,Independent/Builder Floor,4.0,4,4.0,2.0,4.0,2700.0,50000.0,4,3,6,120000.0,Manchanda Realtors Pvt. Ltd.,Dealer,Unknown,19.0
+D71076412,Suncity Avenue 102,R,Gurgaon,Sector 102 Gurgaon,Residential Apartment,2.0,2,1.0,6.0,12.0,605.0,15200.0,4,5,1,10000.0,Rawat Properties,Dealer,Suncity Avenue 102,25.0
+P70884068,SS The Leaf,R,Gurgaon,Sector 85 Gurgaon,Residential Apartment,2.0,2,3.0,6.0,26.0,1640.0,35000.0,4,5,6,0.0,HOMZ SOLUTIONS,Dealer,SS The Leaf,21.0
+E70882580,Ramprastha The Edge Towers,R,Gurgaon,Sector 37D Gurgaon,Residential Apartment,2.0,2,3.0,14.0,19.0,1380.0,19300.0,4,3,1,11000.0,Rawat Properties,Dealer,Ramprastha The Edge Towers,14.0
+M70882244,Ramprastha Primera,R,Gurgaon,Sector 37D Gurgaon,Residential Apartment,3.0,3,3.0,16.0,22.0,1800.0,29400.0,4,3,1,15000.0,Rawat Properties,Dealer,Ramprastha Primera,16.0
+Y71603100,Pioneer Urban Presidia,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,3.0,3,4.0,4.0,27.0,2379.0,50000.0,4,5,1,55000.0,Prop Choice,Dealer,Pioneer Urban Presidia,21.0
+W71588494,Emaar MGF The Palm Drive,R,Gurgaon,Sector 66 Gurgaon,Residential Apartment,3.0,3,2.0,15.0,17.0,2200.0,68000.0,4,5,1,39000.0,Prop Choice,Dealer,Emaar MGF The Palm Drive,31.0
+C71588392,Emaar MGF The Palm Drive,R,Gurgaon,Sector 66 Gurgaon,Residential Apartment,3.0,3,2.0,5.0,17.0,1950.0,65000.0,4,7,1,32500.0,Prop Choice,Dealer,Emaar MGF The Palm Drive,33.0
+G71556230,Emaar Digihomes,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,3.0,3,2.0,3.0,32.0,2588.0,90000.0,4,6,6,47500.0,Prop Choice,Dealer,Emaar Digihomes,35.0
+J71556080,Emaar Digihomes,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,2.0,2,2.0,4.0,32.0,1508.0,60000.0,4,5,6,32000.0,Prop Choice,Dealer,Emaar Digihomes,40.0
+E71533920,Sushant Lok 1 Builder Floors,R,Gurgaon,Sushant Lok Phase 1,Independent House/Villa,3.0,3,2.0,6.0,3.0,2493.0,65000.0,4,5,6,75000.0,SETH PROPERTIES,Dealer,Sushant Lok 1 Builder Floors,26.0
+N71448346,Emaar MGF Palm Studios,R,Gurgaon,Sector 66 Gurgaon,Residential Apartment,2.0,2,2.0,11.0,20.0,1200.0,50000.0,4,1,1,25000.0,Prop Choice,Dealer,Emaar MGF Palm Studios,42.0
+P71433668,Emaar MGF The Palm Drive,R,Gurgaon,Sector 66 Gurgaon,Residential Apartment,3.0,3,3.0,4.0,17.0,1950.0,72000.0,4,4,1,50.0,D & D Developer,Dealer,Emaar MGF The Palm Drive,37.0
+S71426692,Central Park Flower Valley Aqua Front Towers,R,Gurgaon,Sector-33 Sohna,Residential Apartment,3.0,3,4.0,4.0,14.0,1789.0,45000.0,4,5,6,50.0,D & D Developer,Dealer,Central Park Flower Valley Aqua Front Towers,25.0
+K71413520,Central Park Flower Valley Aqua Front Towers,R,Gurgaon,Sector-33 Sohna,Residential Apartment,4.0,4,4.0,8.0,11.0,2600.0,58000.0,4,5,6,50.0,D & D Developer,Dealer,Central Park Flower Valley Aqua Front Towers,22.0
+A71413230,Central Park 2 Bellevue,R,Gurgaon,Sector 48 Gurgaon,Residential Apartment,3.0,4,4.0,10.0,16.0,2550.0,86000.0,4,5,1,50.0,D & D Developer,Dealer,Central Park 2 Bellevue,34.0
+S71410830,Unitech Deerwood Chase,R,Gurgaon,Nirvana Country,Independent House/Villa,5.0,5,4.0,6.0,2.0,3200.0,50000.0,4,5,2,50.0,D & D Developer,Dealer,Unitech Deerwood Chase,16.0
+Z71396598,Emaar MGF The Palm Drive,R,Gurgaon,Sector 66 Gurgaon,Residential Apartment,3.0,2,2.0,5.0,17.0,2200.0,70000.0,4,5,1,35000.0,Prop Choice,Dealer,Emaar MGF The Palm Drive,32.0
+T71396444,Emaar MGF The Palm Drive,R,Gurgaon,Sector 66 Gurgaon,Residential Apartment,3.0,3,2.0,1.0,17.0,1950.0,67000.0,4,7,1,35000.0,Prop Choice,Dealer,Emaar MGF The Palm Drive,34.0
+J71369120,rosewood ,R,Gurgaon,Rosewood,Residential Apartment,5.0,5,4.0,3.0,4.0,4700.0,95000.0,4,5,6,50.0,D & D Developer,Dealer,rosewood ,20.0
+G71367916,Vipul Tatvam Villa,R,Gurgaon,Sector 48 Gurgaon,Independent House/Villa,4.0,5,4.0,6.0,3.0,3240.0,50000.0,4,1,2,160000.0,10X Realty,Dealer,Vipul Tatvam Villa,15.0
+P71367578,Vipul Tatvam Villa,R,Gurgaon,Sector 48 Gurgaon,Independent House/Villa,3.0,4,4.0,6.0,2.0,2592.0,50000.0,4,2,2,130000.0,10X Realty,Dealer,Vipul Tatvam Villa,19.0
+M71362710,Emaar MGF The Palm Drive,R,Gurgaon,Sector 66 Gurgaon,Residential Apartment,4.0,4,2.0,1.0,17.0,2625.0,90000.0,4,1,1,45000.0,Prop Choice,Dealer,Emaar MGF The Palm Drive,34.0
+T71362496,Emaar MGF The Palm Drive,R,Gurgaon,Sector 66 Gurgaon,Residential Apartment,3.0,3,2.0,11.0,17.0,2100.0,75000.0,4,2,1,40000.0,Prop Choice,Dealer,Emaar MGF The Palm Drive,36.0
+I71361872,Emaar MGF The Palm Drive,R,Gurgaon,Sector 66 Gurgaon,Residential Apartment,3.0,3,2.0,6.0,17.0,2100.0,70000.0,4,4,1,35000.0,Prop Choice,Dealer,Emaar MGF The Palm Drive,33.0
+D71356884,Emaar MGF The Palm Drive,R,Gurgaon,Sector 66 Gurgaon,Residential Apartment,3.0,3,2.0,3.0,17.0,1950.0,65000.0,4,1,1,35000.0,Prop Choice,Dealer,Emaar MGF The Palm Drive,33.0
+Y70838824,Shapoorji Pallonji Joyville Gurugram,R,Gurgaon,Sector 102 Gurgaon,Residential Apartment,3.0,3,3.0,3.0,26.0,1692.0,35000.0,4,5,6,17500.0,Rising Sun Realtors Pvt Ltd,Dealer,Shapoorji Pallonji Joyville Gurugram,21.0
+A70912802,DLF Wellington Estate,R,Gurgaon,DLF Phase 5,Residential Apartment,3.0,3,2.0,1.0,14.0,1430.0,70000.0,1,3,2,37500.0,Ayesha Associate,Dealer,DLF Wellington Estate,49.0
+C70881150,Central Park Resorts,R,Gurgaon,Sector 48 Gurgaon,Residential Apartment,3.0,3,2.0,6.0,17.0,1869.0,50000.0,1,0,2,1.0,Sewa Hospitality Services Pvt Ltd,Dealer,Central Park Resorts,27.0
+J71534448,Ansals Palam Vihar,R,Gurgaon,Palam Vihar,Independent/Builder Floor,4.0,4,2.0,2.0,4.0,4842.0,70000.0,4,5,1,35000.0,Ahuja Estate and Developers,Dealer,Ansals Palam Vihar,14.0
+F71085518,DLF Beverly Park,R,Gurgaon,DLF Phase 2,Residential Apartment,3.0,4,3.0,8.0,12.0,3000.0,50000.0,2,3,2,55000.0,Millennium Real Estate,Dealer,DLF Beverly Park,17.0
+B70768132,Unknown,R,Gurgaon,Sector 51 Gurgaon,Independent/Builder Floor,3.0,3,2.0,2.0,4.0,2367.0,54000.0,1,5,1,50.0,PROPERTY MAGICIAN LLP,Dealer,Unknown,23.0
+N70764556,Unknown,R,Gurgaon,Sector 46 Gurgaon,Independent/Builder Floor,1.0,1,2.0,6.0,4.0,1000.0,30000.0,1,5,1,50.0,PROPERTY MAGICIAN LLP,Dealer,Unknown,30.0
+A70636364,DLF South City 1,R,Gurgaon,South City 1,Independent/Builder Floor,3.0,3,2.0,1.0,4.0,1600.0,80000.0,1,5,6,50.0,PROPERTY MAGICIAN LLP,Dealer,DLF South City 1,50.0
+L71356910,Raheja Atlantis,R,Gurgaon,Sector 31 Gurgaon,Residential Apartment,5.0,6,4.0,4.0,18.0,3500.0,50000.0,1,5,2,115000.0,SHREE SHYAM PRAYAG ASSOCIATES,Dealer,Raheja Atlantis,14.0
+C70543990,BPTP Terra,R,Gurgaon,Sector 37D Gurgaon,Residential Apartment,3.0,3,4.0,7.0,23.0,1811.0,33500.0,4,3,1,16500.0,Shiv Properties,Dealer,BPTP Terra,18.0
+A70796884,Ramprastha Primera,R,Gurgaon,Sector 37D Gurgaon,Residential Apartment,3.0,3,4.0,3.0,22.0,1800.0,33000.0,1,5,1,18500.0,Shiv Properties,Dealer,Ramprastha Primera,18.0
+T71290612,Independent Floors at DLF City Phase 1 and 3,R,Gurgaon,DLF Phase 1,Independent/Builder Floor,4.0,4,4.0,2.0,3.0,3300.0,50000.0,4,3,1,1.0,Arihant Estate,Dealer,Independent Floors at DLF City Phase 1 and 3,15.0
+K71180496,Optimal Luxury Dlf City Floor,R,Gurgaon,DLF Phase 2,Independent House/Villa,6.0,6,4.0,6.0,3.0,6552.0,50000.0,4,3,1,2.0,Arihant Estate,Dealer,Optimal Luxury Dlf City Floor,8.0
+Y67811904,Landmark Avenue,R,Gurgaon,Sushant Lok Phase 1,Residential Apartment,3.0,3,3.0,1.0,3.0,1650.0,65000.0,1,5,2,35000.0,Shri Sai Kripa Associates,Dealer,Landmark Avenue,39.0
+C71494148,Unknown,R,Gurgaon,DLF Phase 3,Independent/Builder Floor,4.0,5,4.0,3.0,4.0,4200.0,50000.0,4,3,6,100000.0,Home Zone,Dealer,Unknown,12.0
+Z67821498,Unknown,R,Gurgaon,Sector 54 Gurgaon,Independent/Builder Floor,1.0,1,2.0,2.0,3.0,630.0,26000.0,1,7,6,0.0,Home Zone,Dealer,Unknown,41.0
+Q71697404,Central Park Flower Valley Aqua Front Towers,R,Gurgaon,Sector-33 Sohna,Residential Apartment,3.0,3,4.0,8.0,11.0,1789.0,44000.0,4,1,6,25000.0,Singla Estate,Dealer,Central Park Flower Valley Aqua Front Towers,25.0
+Z71697170,Central Park Flower Valley Flamingo Floors,R,Gurgaon,Sector-33 Sohna,Independent/Builder Floor,3.0,2,3.0,1.0,2.0,700.0,34000.0,4,1,1,20000.0,Singla Estate,Dealer,Central Park Flower Valley Flamingo Floors,49.0
+Q71697066,Central Park Flower Valley Flamingo Floors,R,Gurgaon,Sector-33 Sohna,Independent/Builder Floor,2.0,2,4.0,1.0,2.0,644.0,30000.0,4,1,1,15000.0,Singla Estate,Dealer,Central Park Flower Valley Flamingo Floors,47.0
+C71655574,Central Park Flower Valley Aqua Front Towers,R,Gurgaon,Sector-33 Sohna,Residential Apartment,3.0,3,4.0,7.0,11.0,1789.0,46000.0,4,1,6,25000.0,Singla Estate,Dealer,Central Park Flower Valley Aqua Front Towers,26.0
+R71655408,Central Park Flower Valley Flamingo Floors,R,Gurgaon,Sector-33 Sohna,Independent/Builder Floor,3.0,2,3.0,1.0,2.0,700.0,35000.0,4,1,1,20000.0,Singla Estate,Dealer,Central Park Flower Valley Flamingo Floors,50.0
+L71654952,Central Park Flower Valley Flamingo Floors,R,Gurgaon,Sector-33 Sohna,Independent/Builder Floor,2.0,2,4.0,1.0,2.0,644.0,30000.0,4,1,1,15000.0,Singla Estate,Dealer,Central Park Flower Valley Flamingo Floors,47.0
+W71619952,Eldeco Accolade,R,Gurgaon,Sector-2 Sohna,Residential Apartment,2.0,2,4.0,10.0,18.0,849.0,25000.0,4,1,1,15000.0,Singla Estate,Dealer,Eldeco Accolade,29.0
+B70112398,Emaar Digihomes,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,3.0,3,4.0,30.0,32.0,2588.0,85000.0,4,5,1,50.0,Dream Town Realty ,Dealer,Emaar Digihomes,33.0
+A70112180,Emaar Digihomes,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,2.0,2,2.0,22.0,32.0,1508.0,65000.0,4,5,1,50.0,Dream Town Realty ,Dealer,Emaar Digihomes,43.0
+U70111756,Emaar Digihomes,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,3.0,3,4.0,14.0,32.0,2588.0,80000.0,4,5,1,50.0,Dream Town Realty ,Dealer,Emaar Digihomes,31.0
+B71481948,Emaar Gurgaon Greens,R,Gurgaon,Sector 102 Gurgaon,Residential Apartment,3.0,3,3.0,3.0,14.0,1650.0,32000.0,4,0,1,18000.0,SHELTERS,Dealer,Emaar Gurgaon Greens,19.0
+C70992504,Emaar MGF The Palm Drive,R,Gurgaon,Sector 66 Gurgaon,Residential Apartment,3.0,3,2.0,8.0,17.0,1950.0,90000.0,1,3,1,45000.0,Manglam Estate,Dealer,Emaar MGF The Palm Drive,46.0
+J71662222,Emaar Digihomes,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,3.0,3,3.0,16.0,32.0,2588.0,50000.0,4,5,6,100000.0,Siddhanth Promoters,Dealer,Emaar Digihomes,19.0
+L71660996,Emaar Digihomes,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,2.0,2,2.0,10.0,32.0,1508.0,68000.0,4,5,6,68000.0,Siddhanth Promoters,Dealer,Emaar Digihomes,45.0
+Q71614264,Unitech Fresco,R,Gurgaon,Nirvana Country,Residential Apartment,3.0,3,3.0,8.0,19.0,1815.0,53000.0,4,5,2,15.0,Manglam Estate,Dealer,Unitech Fresco,29.0
+B71326692,Unitech Fresco,R,Gurgaon,Nirvana Country,Residential Apartment,2.0,2,4.0,3.0,19.0,1418.0,47000.0,4,5,1,15.0,Manglam Estate,Dealer,Unitech Fresco,33.0
+U70990164,M3M Golfestate,R,Gurgaon,Sector 65 Gurgaon,Residential Apartment,3.0,3,4.0,18.0,40.0,3887.0,50000.0,4,3,1,80000.0,Manglam Estate,Dealer,M3M Golfestate,13.0
+P71697986,Ireo Skyon,R,Gurgaon,Sector 60 Gurgaon,Residential Apartment,3.0,4,4.0,6.0,39.0,2045.0,50000.0,1,1,1,50000.0,K & S Realty Services,Dealer,Ireo Skyon,24.0
+D71201040,SS The Leaf,R,Gurgaon,Sector 85 Gurgaon,Residential Apartment,3.0,4,3.0,6.0,26.0,2408.0,45000.0,4,3,1,22500.0,Eaarth,Dealer,SS The Leaf,19.0
+Y71520050,Tata Primanti,R,Gurgaon,Sector 72 Gurgaon,Residential Apartment,4.0,5,3.0,12.0,40.0,2905.0,80000.0,4,5,1,1.0,PARMANAND CONSULTANTS,Dealer,Tata Primanti,28.0
+Z71462524,Unknown,R,Gurgaon,C Block Sushant Lok Phase 1,Independent/Builder Floor,1.0,1,1.0,2.0,4.0,600.0,28000.0,1,1,6,14000.0,Shree Shyam Properties ,Dealer,Unknown,47.0
+M71443518,Puri Diplomatic Greens,R,Gurgaon,Sector 111 Gurgaon,Residential Apartment,4.0,5,4.0,8.0,21.0,2950.0,55000.0,4,0,2,25000.0,Property Junction,Dealer,Puri Diplomatic Greens,19.0
+C71351422,DLF The Magnolias,R,Gurgaon,Sector 42 Gurgaon,Residential Apartment,4.0,4,4.0,21.0,40.0,6450.0,50000.0,4,1,2,1.0,PARMANAND CONSULTANTS,Dealer,DLF The Magnolias,8.0
+F71246358,Tata Primanti,R,Gurgaon,Sector 72 Gurgaon,Residential Apartment,4.0,5,4.0,9.0,40.0,2625.0,80000.0,4,5,1,1.0,PARMANAND CONSULTANTS,Dealer,Tata Primanti,30.0
+Z71246292,Tata Primanti,R,Gurgaon,Sector 72 Gurgaon,Residential Apartment,4.0,5,3.0,7.0,40.0,3300.0,90000.0,4,5,1,1.0,PARMANAND CONSULTANTS,Dealer,Tata Primanti,27.0
+R71188172,Alpha Corp GurgaonOne 84,R,Gurgaon,Sector 84 Gurgaon,Residential Apartment,2.0,2,3.0,10.0,26.0,1270.0,27000.0,1,1,1,14000.0,Baba Homez Realty,Dealer,Alpha Corp GurgaonOne 84,21.0
+W71213038,Pyramid Urban Homes,R,Gurgaon,Sector 70A Gurgaon,Residential Apartment,2.0,2,2.0,2.0,14.0,800.0,20000.0,4,0,1,10000.0,DS Realtors,Dealer,Pyramid Urban Homes,25.0
+W71187032,Conscient Heritage One,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,4.0,4,3.0,18.0,25.0,2527.0,75000.0,4,3,1,37500.0,K & S Realty Services,Dealer,Conscient Heritage One,30.0
+B71175586,Emaar Digihomes,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,2.0,2,2.0,5.0,32.0,1508.0,60000.0,4,5,1,30000.0,DEAL POINT,Dealer,Emaar Digihomes,40.0
+G71148666,Adani Brahma Samsara Vilasa,R,Gurgaon,Sector 63 Gurgaon,Residential Apartment,3.0,3,4.0,3.0,4.0,1800.0,60000.0,4,3,6,30000.0,K & S Realty Services,Dealer,Adani Brahma Samsara Vilasa,33.0
+L71066226,Anant The Estate Floors,R,Gurgaon,Sector 63A Gurgaon,Independent/Builder Floor,3.0,3,4.0,1.0,4.0,2322.0,50000.0,4,5,6,35000.0,Gurgaon Homes,Dealer,Anant The Estate Floors,22.0
+P70838416,DLF The Belaire,R,Gurgaon,Sector 54 Gurgaon,Residential Apartment,4.0,5,3.0,24.0,30.0,4200.0,50000.0,4,5,2,240000.0,Dream World Properties,Dealer,DLF The Belaire,12.0
+W70731044,DLF Oakwood Estate,R,Gurgaon,DLF Phase 2,Residential Apartment,4.0,4,2.0,10.0,14.0,1701.0,65000.0,4,5,1,30000.0,Vinod Associates,Dealer,DLF Oakwood Estate,38.0
+I70661098,Raheja Shilas,R,Gurgaon,Sector 109 Gurgaon,Residential Apartment,4.0,4,3.0,12.0,14.0,2700.0,34000.0,4,0,2,20000.0,Property Junction,Dealer,Raheja Shilas,13.0
+Z70297326,Puri Emerald Bay,R,Gurgaon,Sector 104 Gurgaon,Residential Apartment,3.0,4,3.0,18.0,29.0,2450.0,43000.0,4,0,2,21500.0,Property Junction,Dealer,Puri Emerald Bay,18.0
+I71551156,M3M Skywalk,R,Gurgaon,Sector 74 Gurgaon,Residential Apartment,2.0,2,1.0,6.0,30.0,1400.0,42000.0,4,6,1,21000.0,Home Solutions,Dealer,M3M Skywalk,30.0
+W71551460,M3M Skywalk,R,Gurgaon,Sector 74 Gurgaon,Residential Apartment,3.0,3,2.0,11.0,30.0,2000.0,60000.0,4,1,1,30000.0,Home Solutions,Dealer,M3M Skywalk,30.0
+P71648828,Sobha City,R,Gurgaon,Sector 108 Gurgaon,Residential Apartment,2.0,2,2.0,15.0,24.0,1465.0,40000.0,4,5,1,40000.0,jp realtors ,Dealer,Sobha City,27.0
+N71648760,Sobha City,R,Gurgaon,Sector 108 Gurgaon,Residential Apartment,3.0,3,2.0,2.0,24.0,1745.0,45000.0,4,3,6,45000.0,jp realtors ,Dealer,Sobha City,26.0
+A71648684,Sobha City,R,Gurgaon,Sector 108 Gurgaon,Residential Apartment,3.0,4,2.0,23.0,24.0,2072.0,60000.0,4,3,6,60000.0,jp realtors ,Dealer,Sobha City,29.0
+S71565302,Ireo Victory Valley,R,Gurgaon,Sector 67 Gurgaon,Residential Apartment,3.0,3,4.0,27.0,51.0,2411.0,75000.0,4,6,1,37500.0,Home Solutions,Dealer,Ireo Victory Valley,31.0
+X71497392,Bestech Park View Spa Next,R,Gurgaon,Sector 67 Gurgaon,Residential Apartment,3.0,4,4.0,9.0,14.0,1935.0,55000.0,4,5,2,27500.0,Home Solutions,Dealer,Bestech Park View Spa Next,28.0
+R71518040,M3M Skywalk,R,Gurgaon,Sector 74 Gurgaon,Residential Apartment,3.0,3,3.0,15.0,30.0,2000.0,60000.0,4,1,6,30000.0,Home Solutions,Dealer,M3M Skywalk,30.0
+T71517694,M3M Skywalk,R,Gurgaon,Sector 74 Gurgaon,Residential Apartment,2.0,2,2.0,7.0,30.0,1455.0,42000.0,4,4,6,21000.0,Home Solutions,Dealer,M3M Skywalk,29.0
+Z70528238,AIPL The Peaceful Homes,R,Gurgaon,Sector 70A Gurgaon,Residential Apartment,3.0,4,3.0,12.0,30.0,2350.0,55000.0,4,3,1,31000.0,Property Research Centre,Dealer,AIPL The Peaceful Homes,23.0
+A71411744,Emaar Digihomes,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,3.0,3,4.0,25.0,32.0,2588.0,99000.0,4,3,1,49500.0,Home Solutions,Dealer,Emaar Digihomes,38.0
+G71411260,Emaar Digihomes,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,2.0,2,3.0,17.0,32.0,1508.0,65000.0,4,3,6,32500.0,Home Solutions,Dealer,Emaar Digihomes,43.0
+R71395480,Unitech South City 2,R,Gurgaon,Sector 50 Gurgaon,Independent/Builder Floor,3.0,2,3.0,2.0,3.0,2475.0,60000.0,1,5,3,30000.0,Ujjwal Properties,Dealer,Unitech South City 2,24.0
+B71395456,Unitech South City 2,R,Gurgaon,Sector 50 Gurgaon,Independent/Builder Floor,3.0,2,3.0,6.0,3.0,2475.0,45000.0,4,5,3,23000.0,Ujjwal Properties,Dealer,Unitech South City 2,18.0
+N70966762,AIPL Zen Residences,R,Gurgaon,Sector 70A Gurgaon,Residential Apartment,3.0,3,3.0,11.0,28.0,1655.0,46000.0,4,3,6,25000.0,Property Research Centre,Dealer,AIPL Zen Residences,28.0
+F71346526,Ireo Victory Valley,R,Gurgaon,Sector 67 Gurgaon,Residential Apartment,2.0,2,2.0,11.0,35.0,1470.0,60000.0,4,3,1,30000.0,Home Solutions,Dealer,Ireo Victory Valley,41.0
+F70963272,Central Park Resorts,R,Gurgaon,Sector 48 Gurgaon,Residential Apartment,3.0,3,3.0,7.0,17.0,2187.0,50000.0,4,5,1,60000.0,shreesaiproperties,Dealer,Central Park Resorts,23.0
+O70862306,M3M Merlin,R,Gurgaon,Sector 67 Gurgaon,Residential Apartment,3.0,4,4.0,10.0,21.0,2427.0,82000.0,4,2,1,41000.0,Home Solutions,Dealer,M3M Merlin,34.0
+V70872906,Orchid Petals,R,Gurgaon,Sector 49 Gurgaon,Residential Apartment,3.0,4,3.0,4.0,14.0,2061.0,75000.0,1,4,3,37500.0,sai properties ,Dealer,Orchid Petals,36.0
+B70753006,Orchid Petals,R,Gurgaon,Sector 49 Gurgaon,Residential Apartment,3.0,3,3.0,5.0,14.0,1805.0,50000.0,4,3,2,25000.0,sai properties ,Dealer,Orchid Petals,28.0
+D71747268,bulder flooe,R,Gurgaon,Sushant Lok Phase 2,Independent/Builder Floor,3.0,3,2.0,2.0,4.0,2367.0,50000.0,1,3,1,25000.0,Ranil group,Dealer,bulder flooe,21.0
+X71683818,Sushant Lok 1 Builder Floors,R,Gurgaon,Sushant Lok Phase 1,Independent/Builder Floor,3.0,3,0.0,6.0,4.0,2000.0,50000.0,4,3,6,15.0,Ranil group,Dealer,Sushant Lok 1 Builder Floors,25.0
+B71658128,DLF Park Place,R,Gurgaon,Sector 54 Gurgaon,Residential Apartment,4.0,4,4.0,9.0,30.0,2721.0,50000.0,4,3,3,180000.0,Opaks Realty,Dealer,DLF Park Place,18.0
+J71578798,Blite Luxury Floors,R,Gurgaon,Sector 57 Gurgaon,Independent/Builder Floor,3.0,3,2.0,3.0,4.0,2200.0,60000.0,1,3,6,30000.0,Ranil group,Dealer,Blite Luxury Floors,27.0
+V71321616,Ireo Victory Valley,R,Gurgaon,Sector 67 Gurgaon,Residential Apartment,3.0,3,3.0,27.0,51.0,2411.0,75000.0,4,5,1,40000.0,Jyoti Enterprises,Dealer,Ireo Victory Valley,31.0
+R70923458,Conscient Heritage One,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,3.0,3,3.0,19.0,25.0,1996.0,60000.0,4,5,1,35000.0,Jyoti Enterprises,Dealer,Conscient Heritage One,30.0
+H70448900,DLF Builder Floors,R,Gurgaon,DLF Phase 2,Independent/Builder Floor,3.0,3,2.0,2.0,4.0,3240.0,50000.0,4,1,1,15.0,Ranil group,Dealer,DLF Builder Floors,15.0
+N70353896,DLF Belvedere Park,R,Gurgaon,DLF Phase 2,Residential Apartment,4.0,4,2.0,10.0,20.0,1711.0,90000.0,1,5,2,45000.0,Ranil group,Dealer,DLF Belvedere Park,53.0
+R69810218,Unknown,R,Gurgaon,Sushant Lok Phase 2,Independent/Builder Floor,3.0,3,2.0,2.0,4.0,1400.0,45000.0,4,2,1,1.0,Meherr Homes,Dealer,Unknown,32.0
+Z70924754,Paras Irene,R,Gurgaon,Sector 70A Gurgaon,Residential Apartment,3.0,3,3.0,8.0,20.0,2200.0,55000.0,4,1,1,25000.0,ranjeet ,Dealer,Paras Irene,25.0
+G71581182,Adani Brahma Samsara Vilasa,R,Gurgaon,Sector 63 Gurgaon,Independent/Builder Floor,3.0,3,3.0,2.0,4.0,2880.0,56000.0,4,1,6,35000.0,krishna Associates ,Dealer,Adani Brahma Samsara Vilasa,19.0
+A71182938,Unitech Nirvana Birch Court,R,Gurgaon,Nirvana Country,Independent House/Villa,4.0,4,4.0,6.0,2.0,2160.0,50000.0,4,1,2,1.0,VYOM LANDBASE PRIVATE LIMITED,Dealer,Unitech Nirvana Birch Court,23.0
+V70961816,Ireo Skyon,R,Gurgaon,Sector 60 Gurgaon,Residential Apartment,4.0,4,3.0,17.0,39.0,2791.0,95000.0,4,5,1,1.0,Apex Homes,Dealer,Ireo Skyon,34.0
+B71789904,Palm Floors Sushant Lok Phase 1,R,Gurgaon,Sushant Lok Phase 1,Independent/Builder Floor,3.0,4,2.0,4.0,4.0,2700.0,50000.0,4,5,6,110000.0,The Estate Foundation,Dealer,Palm Floors Sushant Lok Phase 1,19.0
+C71780926,Unknown,R,Gurgaon,Block P South city 1,Independent House/Villa,6.0,6,4.0,6.0,3.0,3240.0,50000.0,4,3,1,400000.0,Capital Partners,Dealer,Unknown,15.0
+L71764178,Sushant Lok 1 Builder Floors,R,Gurgaon,Sushant Lok Phase 1,Independent/Builder Floor,4.0,4,2.0,1.0,4.0,2700.0,50000.0,4,5,6,57500.0,Shankar property ,Dealer,Sushant Lok 1 Builder Floors,19.0
+J71756104,Emaar MGF Marbella,R,Gurgaon,Sector 66 Gurgaon,Independent House/Villa,5.0,5,4.0,6.0,3.0,6000.0,50000.0,4,3,6,15.0,Aurus Realty Consultants,Dealer,Emaar MGF Marbella,8.0
+W71715700,DLF City Phase 1,R,Gurgaon,Sector 26 Gurgaon,Independent House/Villa,5.0,6,4.0,6.0,2.0,9000.0,50000.0,1,5,1,1.0,Capital Partners,Dealer,DLF City Phase 1,6.0
+N71714848,Tata Primanti,R,Gurgaon,Sector 72 Gurgaon,Residential Apartment,4.0,4,3.0,3.0,3.0,7000.0,50000.0,4,3,1,15.0,Aurus Realty Consultants,Dealer,Tata Primanti,7.0
+F71714386,Ireo Skyon,R,Gurgaon,Sector 60 Gurgaon,Residential Apartment,3.0,4,4.0,4.0,39.0,2045.0,85000.0,1,5,1,50.0,JD GROUP ,Dealer,Ireo Skyon,42.0
+N71700586,Shashi Apartment,R,Gurgaon,Sector 31 Gurgaon,Residential Apartment,4.0,4,3.0,3.0,10.0,3300.0,45000.0,4,5,1,50.0,JD GROUP ,Dealer,Shashi Apartment,14.0
+C71686452,Bestech Park View Spa Next,R,Gurgaon,Sector 67 Gurgaon,Residential Apartment,3.0,3,4.0,4.0,14.0,1790.0,60000.0,4,5,2,0.0,ONE KEY REALTORS,Dealer,Bestech Park View Spa Next,34.0
+P71685654,Unknown,R,Gurgaon,Sector 65 Gurgaon,Independent House/Villa,3.0,3,3.0,6.0,5.0,1650.0,55000.0,4,5,6,30000.0,ONE KEY REALTORS,Dealer,Unknown,33.0
+W71681020,Unitech Heritage City,R,Gurgaon,Heritage City,Residential Apartment,4.0,4,4.0,8.0,9.0,3250.0,50000.0,4,1,3,75000.0,Shankar property ,Dealer,Unitech Heritage City,15.0
+V71681694,Unitech Heritage City,R,Gurgaon,Heritage City,Residential Apartment,4.0,4,1.0,2.0,9.0,3250.0,50000.0,4,1,3,60000.0,Shankar property ,Dealer,Unitech Heritage City,15.0
+A71666650,Suncity Township,R,Gurgaon,Sector 54 Gurgaon,Independent House/Villa,4.0,4,2.0,6.0,3.0,4500.0,65000.0,4,3,3,30000.0,Vasishta Properties,Dealer,Suncity Township,14.0
+T71666582,Suncity Township,R,Gurgaon,Sector 54 Gurgaon,Independent House/Villa,3.0,3,2.0,6.0,3.0,350.0,60000.0,4,7,3,30000.0,Vasishta Properties,Dealer,Suncity Township,171.0
+B71644390,Sushant Lok 1 Builder Floors,R,Gurgaon,Sushant Lok Phase 1,Independent/Builder Floor,3.0,3,2.0,6.0,3.0,1935.0,42000.0,4,3,2,21000.0,Shankar property ,Dealer,Sushant Lok 1 Builder Floors,22.0
+F71622484,Sushant Lok 1 Builder Floors,R,Gurgaon,Sushant Lok Phase 1,Independent/Builder Floor,1.0,1,1.0,1.0,4.0,450.0,28000.0,1,1,1,14000.0,Shankar property ,Dealer,Sushant Lok 1 Builder Floors,62.0
+H71622032,Sushant Lok 1 Builder Floors,R,Gurgaon,Sushant Lok Phase 1,Independent/Builder Floor,3.0,3,2.0,1.0,4.0,2700.0,85000.0,4,1,1,42500.0,Shankar property ,Dealer,Sushant Lok 1 Builder Floors,31.0
+U71623886,Unknown,R,Gurgaon,DLF Phase 3,Independent/Builder Floor,1.0,1,1.0,1.0,4.0,1000.0,24000.0,1,5,6,50.0,JD GROUP ,Dealer,Unknown,24.0
+O71622364,Unknown,R,Gurgaon,Sector 31 Gurgaon,Independent House/Villa,3.0,3,3.0,6.0,2.0,4300.0,50000.0,4,5,1,50.0,JD GROUP ,Dealer,Unknown,12.0
+Q71622224,Vipul World,R,Gurgaon,Sector 48 Gurgaon,Independent/Builder Floor,3.0,3,2.0,2.0,3.0,3375.0,50000.0,1,3,2,25000.0,Yashveer Properties,Dealer,Vipul World,15.0
+Z71622064,sector 57,R,Gurgaon,Sushant Lok 3 Extension,Independent/Builder Floor,3.0,3,3.0,4.0,4.0,2160.0,65000.0,1,5,1,35000.0,Yashveer Properties,Dealer,sector 57,30.0
+E71620670,Ireo Skyon,R,Gurgaon,Sector 60 Gurgaon,Residential Apartment,3.0,3,3.0,5.0,12.0,2385.0,90000.0,1,3,1,15.0,Aurus Realty Consultants,Dealer,Ireo Skyon,38.0
+P71619598,Ansal Heights 86,R,Gurgaon,Sector 86 Gurgaon,Residential Apartment,3.0,2,1.0,8.0,14.0,1690.0,22000.0,4,5,1,11000.0,Ilika Realtors,Dealer,Ansal Heights 86,13.0
+A71618328,Emaar Gurgaon Greens,R,Gurgaon,Sector 102 Gurgaon,Residential Apartment,3.0,3,3.0,6.0,14.0,1650.0,34000.0,1,5,1,20000.0,square expert ,Dealer,Emaar Gurgaon Greens,21.0
+H71614940,Emaar MGF Emerald Estate,R,Gurgaon,Sector 65 Gurgaon,Residential Apartment,2.0,2,2.0,5.0,13.0,1020.0,38000.0,4,5,6,21000.0,K.D Property,Dealer,Emaar MGF Emerald Estate,37.0
+J71611064,Unknown,R,Gurgaon,Sector 43 Gurgaon,Independent/Builder Floor,4.0,4,2.0,2.0,4.0,3240.0,50000.0,1,1,1,62500.0,Shankar property ,Dealer,Unknown,15.0
+P71596400,Unknown,R,Gurgaon,C Block Sushant Lok Phase 1,Independent/Builder Floor,1.0,1,1.0,6.0,4.0,750.0,25000.0,1,4,1,12500.0,Shankar property ,Dealer,Unknown,33.0
+A71594796,Unitech Aspen Greens,R,Gurgaon,Nirvana Country,Independent House/Villa,4.0,4,3.0,6.0,3.0,2160.0,50000.0,4,5,2,80000.0,Yashveer Properties,Dealer,Unitech Aspen Greens,23.0
+U71556164,Unknown,R,Gurgaon,Chakkarpur,Independent/Builder Floor,3.0,3,2.0,2.0,3.0,2367.0,80000.0,4,1,1,40000.0,Shankar property ,Dealer,Unknown,34.0
+U71549936,Unknown,R,Gurgaon,Sector 43 Gurgaon,Independent/Builder Floor,3.0,3,2.0,4.0,4.0,2367.0,85000.0,1,5,1,40000.0,Shankar property ,Dealer,Unknown,36.0
+J71523742,Unknown,R,Gurgaon,Sector 43 Gurgaon,Independent/Builder Floor,3.0,3,2.0,2.0,4.0,1836.0,75000.0,4,4,6,37500.0,Shankar property ,Dealer,Unknown,41.0
+W71519068,Suncity Essel Towers,R,Gurgaon,Sector 28 Gurgaon,Residential Apartment,3.0,3,2.0,5.0,17.0,1700.0,70000.0,1,3,3,35000.0,Shankar property ,Dealer,Suncity Essel Towers,41.0
+P71518802,Unknown,R,Gurgaon,DLF Phase 4,Independent/Builder Floor,3.0,4,2.0,1.0,4.0,2430.0,50000.0,4,3,6,50000.0,Shankar property ,Dealer,Unknown,21.0
+C71516996,Suncity Township,R,Gurgaon,Sector 54 Gurgaon,Independent/Builder Floor,3.0,3,2.0,6.0,3.0,1500.0,45000.0,4,1,3,0.0,Vasishta Properties,Dealer,Suncity Township,30.0
+W71503680,Unknown,R,Gurgaon,B Block Sushant Lok Phase 1,Independent/Builder Floor,3.0,3,2.0,6.0,4.0,2700.0,80000.0,4,3,2,40000.0,Shankar property ,Dealer,Unknown,30.0
+K71505230,Unknown,R,Gurgaon,C Block Sushant Lok Phase 1,Independent/Builder Floor,3.0,4,2.0,1.0,4.0,1935.0,80000.0,4,3,1,40000.0,Shankar property ,Dealer,Unknown,41.0
+L71479564,Emaar MGF Emerald Estate,R,Gurgaon,Sector 65 Gurgaon,Residential Apartment,3.0,3,3.0,6.0,13.0,1350.0,48000.0,4,5,6,26000.0,K.D Property,Dealer,Emaar MGF Emerald Estate,36.0
+A71479226,Ansal API Esencia,R,Gurgaon,Sector 67 Gurgaon,Residential Apartment,3.0,3,3.0,1.0,2.0,1500.0,31000.0,4,5,6,15000.0,K.D Property,Dealer,Ansal API Esencia,21.0
+R71478476,Emaar Digihomes,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,2.0,2,2.0,7.0,32.0,1508.0,65000.0,1,5,6,15.0,Aurus Realty Consultants,Dealer,Emaar Digihomes,43.0
+A71477286,Pivotal Riddhi Siddhi,R,Gurgaon,Sector 99 Gurgaon,Residential Apartment,2.0,2,2.0,6.0,14.0,594.0,11000.0,4,5,6,1.0,PropSixty,Dealer,Pivotal Riddhi Siddhi,19.0
+J71476446,Emaar Digihomes,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,2.0,2,2.0,8.0,32.0,1508.0,65000.0,4,3,6,15.0,Aurus Realty Consultants,Dealer,Emaar Digihomes,43.0
+D71475956,Pioneer Park,R,Gurgaon,Sector 61 Gurgaon,Residential Apartment,4.0,4,2.0,9.0,32.0,2438.0,85000.0,4,5,1,50.0,JD GROUP ,Dealer,Pioneer Park,35.0
+T71475646,Pioneer Park,R,Gurgaon,Sector 61 Gurgaon,Residential Apartment,2.0,2,2.0,7.0,32.0,1400.0,60000.0,4,5,1,50.0,JD GROUP ,Dealer,Pioneer Park,43.0
+F71475478,Pioneer Park,R,Gurgaon,Sector 61 Gurgaon,Residential Apartment,2.0,2,2.0,17.0,32.0,1200.0,52000.0,4,5,2,50.0,JD GROUP ,Dealer,Pioneer Park,43.0
+I71469274,Experion The Heartsong,R,Gurgaon,Sector 108 Gurgaon,Residential Apartment,4.0,5,4.0,14.0,14.0,2779.0,41000.0,4,5,6,25000.0,square expert ,Dealer,Experion The Heartsong,15.0
+E71449416,Shapoorji Pallonji Joyville Gurugram,R,Gurgaon,Sector 102 Gurgaon,Residential Apartment,2.0,2,3.0,6.0,20.0,915.0,19000.0,2,5,6,15000.0,square expert ,Dealer,Shapoorji Pallonji Joyville Gurugram,21.0
+D71439594,Unknown,R,Gurgaon,Sector 57 Gurgaon,Independent/Builder Floor,3.0,4,2.0,3.0,4.0,1600.0,70000.0,1,5,6,35000.0,JD GROUP ,Dealer,Unknown,44.0
+S71438568,Unitech Escape,R,Gurgaon,Nirvana Country,Independent House/Villa,5.0,5,4.0,6.0,2.0,3240.0,50000.0,4,5,2,15.0,Yashveer Properties,Dealer,Unitech Escape,15.0
+I71438148,Tulip Violet,R,Gurgaon,Sector 69 Gurgaon,Residential Apartment,3.0,3,2.0,6.0,14.0,1578.0,60000.0,1,5,2,30000.0,Yashveer Properties,Dealer,Tulip Violet,38.0
+N71437996,south city 2 sector 49,R,Gurgaon,Sector 49 Gurgaon,Independent/Builder Floor,3.0,3,2.0,6.0,3.0,1900.0,40000.0,4,5,3,20000.0,Yashveer Properties,Dealer,south city 2 sector 49,21.0
+Y71316396,Ansal Heights 86,R,Gurgaon,Sector 86 Gurgaon,Residential Apartment,4.0,4,2.0,7.0,14.0,2786.0,40000.0,4,5,6,20000.0,Ilika Realtors,Dealer,Ansal Heights 86,14.0
+V71315488,Emaar Emerald Hills,R,Gurgaon,Sector 65 Gurgaon,Independent/Builder Floor,3.0,3,3.0,2.0,3.0,1395.0,55000.0,4,3,1,15.0,Aurus Realty Consultants,Dealer,Emaar Emerald Hills,39.0
+O71268736,Emaar MGF Emerald Floors Premier,R,Gurgaon,Sector 65 Gurgaon,Residential Apartment,3.0,3,4.0,3.0,4.0,1600.0,51000.0,4,5,6,2.0,K.D Property,Dealer,Emaar MGF Emerald Floors Premier,32.0
+K71257772,Adani M2K Oyster Grande,R,Gurgaon,Sector 102 Gurgaon,Residential Apartment,3.0,4,3.0,14.0,24.0,1889.0,31000.0,4,5,1,20000.0,square expert ,Dealer,Adani M2K Oyster Grande,16.0
+E71251138,Shapoorji Pallonji Joyville Gurugram,R,Gurgaon,Sector 102 Gurgaon,Residential Apartment,2.0,2,3.0,2.0,18.0,1215.0,23000.0,4,5,6,15000.0,square expert ,Dealer,Shapoorji Pallonji Joyville Gurugram,19.0
+C71232812,Puri Emerald Bay,R,Gurgaon,Sector 104 Gurgaon,Residential Apartment,3.0,4,0.0,16.0,29.0,2450.0,42000.0,4,5,1,50.0,square expert ,Dealer,Puri Emerald Bay,17.0
+X71189166,Indiabulls Enigma,R,Gurgaon,Sector 110 Gurgaon,Residential Apartment,4.0,5,3.0,11.0,15.0,3400.0,53000.0,4,5,1,0.0,square expert ,Dealer,Indiabulls Enigma,16.0
+O71181172,Emaar Emerald Hills,R,Gurgaon,Sector 65 Gurgaon,Residential Apartment,3.0,3,4.0,6.0,2.0,1395.0,52000.0,4,5,6,27500.0,K.D Property,Dealer,Emaar Emerald Hills,37.0
+O71175294,Tata Primanti,R,Gurgaon,Sector 72 Gurgaon,Residential Apartment,4.0,4,3.0,4.0,40.0,3355.0,50000.0,4,3,1,15.0,Aurus Realty Consultants,Dealer,Tata Primanti,15.0
+R71172960,Orchid Petals,R,Gurgaon,Sector 49 Gurgaon,Residential Apartment,3.0,3,4.0,6.0,14.0,2033.0,75000.0,1,7,2,40000.0,Yashveer Properties,Dealer,Orchid Petals,37.0
+T71172576,Unitech South City 2,R,Gurgaon,Sector 50 Gurgaon,Independent/Builder Floor,4.0,4,3.0,2.0,4.0,3500.0,80000.0,1,5,1,40000.0,Yashveer Properties,Dealer,Unitech South City 2,23.0
+Q71152102,Puri Emerald Bay,R,Gurgaon,Sector 104 Gurgaon,Residential Apartment,3.0,4,4.0,3.0,29.0,2450.0,45000.0,4,5,6,25000.0,square expert ,Dealer,Puri Emerald Bay,18.0
+O71151890,Shapoorji Pallonji Joyville Gurugram,R,Gurgaon,Sector 102 Gurgaon,Residential Apartment,2.0,2,4.0,8.0,26.0,1368.0,27000.0,4,5,6,15000.0,square expert ,Dealer,Shapoorji Pallonji Joyville Gurugram,20.0
+B71151692,Adani M2K Oyster Grande,R,Gurgaon,Sector 102 Gurgaon,Residential Apartment,3.0,4,3.0,12.0,24.0,1889.0,30000.0,4,5,1,15000.0,square expert ,Dealer,Adani M2K Oyster Grande,16.0
+B71151624,Adani M2K Oyster Grande,R,Gurgaon,Sector 102 Gurgaon,Residential Apartment,3.0,4,3.0,15.0,24.0,1889.0,29000.0,4,5,1,15000.0,square expert ,Dealer,Adani M2K Oyster Grande,15.0
+G71126658,Shapoorji Pallonji Joyville Gurugram,R,Gurgaon,Sector 102 Gurgaon,Residential Apartment,3.0,3,3.0,6.0,16.0,1669.0,35000.0,4,0,1,16000.0,AIA LANDBASE,Dealer,Shapoorji Pallonji Joyville Gurugram,21.0
+X70016964,Palm Floors Sushant Lok Phase 1,R,Gurgaon,Sushant Lok Phase 1,Independent/Builder Floor,2.0,2,3.0,2.0,3.0,1200.0,30000.0,4,2,1,30000.0,The Estate Foundation,Dealer,Palm Floors Sushant Lok Phase 1,25.0
+E71062210,Signature Global the Millennia,R,Gurgaon,Sector 37D Gurgaon,Residential Apartment,2.0,2,2.0,3.0,23.0,644.0,15000.0,4,5,6,10000.0,PropSixty,Dealer,Signature Global the Millennia,23.0
+G71037064,Unitech South City 2,R,Gurgaon,Sector 50 Gurgaon,Independent/Builder Floor,3.0,3,2.0,3.0,4.0,2000.0,60000.0,4,5,1,30000.0,Yashveer Properties,Dealer,Unitech South City 2,30.0
+Q71022346,Emaar MGF Emerald Floors Premier,R,Gurgaon,Sector 65 Gurgaon,Residential Apartment,3.0,4,4.0,3.0,5.0,1650.0,56000.0,4,5,6,31000.0,K.D Property,Dealer,Emaar MGF Emerald Floors Premier,34.0
+V71032124,Emaar MGF Emerald Floors Select,R,Gurgaon,Sector 65 Gurgaon,Residential Apartment,4.0,4,4.0,1.0,2.0,2400.0,65000.0,4,5,6,33000.0,K.D Property,Dealer,Emaar MGF Emerald Floors Select,27.0
+D70993508,Emaar Mgf Emerald Floors,R,Gurgaon,Sector 65 Gurgaon,Residential Apartment,4.0,3,4.0,1.0,2.0,1750.0,52000.0,4,5,6,28500.0,K.D Property,Dealer,Emaar Mgf Emerald Floors,30.0
+U70968132,La Vida by Tata Housing,R,Gurgaon,Sector 113 Gurgaon ,Residential Apartment,3.0,2,2.0,10.0,13.0,1579.0,38000.0,4,5,1,20000.0,A I A Landbase,Dealer,La Vida by Tata Housing,24.0
+X70929716,Grover Homes Sec 46,R,Gurgaon,Sector 46 Gurgaon,Independent/Builder Floor,3.0,3,3.0,2.0,4.0,3000.0,85000.0,4,5,6,20.0,Yashveer Properties,Dealer,Grover Homes Sec 46,28.0
+P70911958,Emaar Mgf Emerald Floors,R,Gurgaon,Sector 65 Gurgaon,Residential Apartment,4.0,4,4.0,1.0,2.0,1750.0,51000.0,4,5,6,28000.0,K.D Property,Dealer,Emaar Mgf Emerald Floors,29.0
+J70912288,Emaar Emerald Hills,R,Gurgaon,Sector 65 Gurgaon,Residential Apartment,3.0,3,3.0,2.0,2.0,1395.0,46000.0,4,5,6,24000.0,K.D Property,Dealer,Emaar Emerald Hills,33.0
+R70912166,Emaar Emerald Hills,R,Gurgaon,Sector 65 Gurgaon,Residential Apartment,3.0,3,3.0,2.0,2.0,1395.0,46500.0,4,5,6,25000.0,K.D Property,Dealer,Emaar Emerald Hills,33.0
+Q70911662,Emaar MGF Emerald Estate,R,Gurgaon,Sector 65 Gurgaon,Residential Apartment,2.0,2,2.0,2.0,13.0,1020.0,44000.0,4,5,6,24000.0,K.D Property,Dealer,Emaar MGF Emerald Estate,43.0
+V70910722,Pyramid Square 67A,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,2.0,2,2.0,1.0,15.0,591.0,33000.0,1,5,6,16000.0,Arcadian Properties,Dealer,Pyramid Square 67A,56.0
+O70898628,Ansal Harmony Homes,R,Gurgaon,Sushant Lok Phase 3,Independent/Builder Floor,4.0,4,3.0,3.0,4.0,3200.0,50000.0,1,5,1,20.0,Yashveer Properties,Dealer,Ansal Harmony Homes,16.0
+G70867114,Signature Andour Heights,R,Gurgaon,Sector 71 Gurgaon,Residential Apartment,2.0,2,1.0,5.0,13.0,600.0,29000.0,1,0,1,14000.0,Planwey realtech,Dealer,Signature Andour Heights,48.0
+E70834536,DLF Westend Heights,R,Gurgaon,DLF Phase 5,Residential Apartment,4.0,4,4.0,3.0,20.0,2610.0,50000.0,1,0,2,160000.0,Property Finders,Dealer,DLF Westend Heights,19.0
+H69616568,Sushant Lok 1 Builder Floors,R,Gurgaon,Sushant Lok Phase 1,Independent/Builder Floor,3.0,3,2.0,1.0,4.0,2250.0,75000.0,4,4,6,37500.0,Apex Homes,Dealer,Sushant Lok 1 Builder Floors,33.0
+T71711690,Ansals Palam Vihar,R,Gurgaon,Palam Vihar,Independent/Builder Floor,4.0,4,2.0,3.0,4.0,3240.0,60000.0,4,5,1,30000.0,Ahuja Estates,Dealer,Ansals Palam Vihar,19.0
+V71673142,Mahindra Luminare,R,Gurgaon,Sector 59 Gurgaon,Residential Apartment,3.0,4,2.0,23.0,30.0,2985.0,50000.0,4,5,6,50.0,Zoyo Homes Pvt. Ltd.,Dealer,Mahindra Luminare,17.0
+U71579824,TDI Ourania,R,Gurgaon,Sector 53 Gurgaon,Residential Apartment,2.0,2,2.0,9.0,13.0,1245.0,72000.0,1,1,6,35000.0,Earth Ved Associates,Dealer,TDI Ourania,58.0
+S71045504,TDI Ourania,R,Gurgaon,Sector 53 Gurgaon,Residential Apartment,4.0,5,3.0,7.0,13.0,4250.0,50000.0,4,1,1,70000.0,Earth Ved Associates,Dealer,TDI Ourania,12.0
+K70905618,TDI Ourania,R,Gurgaon,Sector 53 Gurgaon,Residential Apartment,2.0,2,1.0,7.0,13.0,1165.0,57000.0,4,1,1,27000.0,Earth Ved Associates,Dealer,TDI Ourania,49.0
+T71409580,dlf,R,Gurgaon,DLF Phase 2,Independent House/Villa,4.0,4,4.0,6.0,2.0,1800.0,99000.0,2,5,2,49000.0,Modern Living,Dealer,dlf,55.0
+P70899006,Emaar Digihomes,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,2.0,2,2.0,14.0,32.0,1508.0,65000.0,4,5,1,32500.0,Grrow Property Management Pvt. Ltd.,Dealer,Emaar Digihomes,43.0
+N71646858,Tata Primanti,R,Gurgaon,Sector 72 Gurgaon,Residential Apartment,3.0,3,4.0,25.0,40.0,2550.0,84000.0,4,1,1,45000.0,Ashiana Developers ,Dealer,Tata Primanti,33.0
+C71646724,Tata Primanti,R,Gurgaon,Sector 72 Gurgaon,Residential Apartment,4.0,5,4.0,8.0,40.0,2905.0,82500.0,4,3,1,41500.0,Ashiana Developers ,Dealer,Tata Primanti,28.0
+U71647168,Tata Primanti,R,Gurgaon,Sector 72 Gurgaon,Residential Apartment,3.0,4,4.0,17.0,40.0,2185.0,62000.0,4,3,1,31200.0,Ashiana Developers ,Dealer,Tata Primanti,28.0
+X71646494,Tata Primanti,R,Gurgaon,Sector 72 Gurgaon,Residential Apartment,3.0,4,4.0,8.0,40.0,2185.0,65000.0,4,5,1,32500.0,Ashiana Developers ,Dealer,Tata Primanti,30.0
+V71623356,Pioneer Urban Presidia,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,4.0,4,4.0,15.0,27.0,3104.0,50000.0,4,5,6,140000.0,Durva Estate,Dealer,Pioneer Urban Presidia,16.0
+R71513224,Suncity Township,R,Gurgaon,Sector 54 Gurgaon,Independent/Builder Floor,4.0,4,4.0,2.0,4.0,2300.0,95000.0,4,5,6,95000.0,Durva Estate,Dealer,Suncity Township,41.0
+V71171852,Suncity Township,R,Gurgaon,Sector 54 Gurgaon,Independent/Builder Floor,4.0,4,3.0,2.0,4.0,2400.0,85000.0,4,5,1,85000.0,Durva Estate,Dealer,Suncity Township,35.0
+W71178550,Mahindra Luminare,R,Gurgaon,Sector 59 Gurgaon,Residential Apartment,3.0,4,3.0,10.0,30.0,3025.0,50000.0,4,5,6,135000.0,Durva Estate,Dealer,Mahindra Luminare,17.0
+L71137214,Suncity Heights,R,Gurgaon,Sector 54 Gurgaon,Residential Apartment,3.0,3,4.0,7.0,12.0,2341.0,80000.0,4,5,1,80000.0,Durva Estate,Dealer,Suncity Heights,34.0
+M48762987,Ireo The Corridors,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,3.0,3,2.0,7.0,10.0,1854.0,46000.0,4,6,6,23000.0,JANVI GROUP,Dealer,Ireo The Corridors,25.0
+C49685936,residental,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,2.0,2,2.0,1.0,19.0,1484.0,40000.0,4,2,6,15000.0,JANVI GROUP,Dealer,residental,27.0
+Q49687334,Ireo The Corridors,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,3.0,4,2.0,12.0,14.0,1852.0,45500.0,4,6,1,20000.0,PROPERTY SOLUTION,Dealer,Ireo The Corridors,25.0
+L48949161,Ireo The Corridors,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,2.0,2,2.0,10.0,19.0,1484.0,41000.0,1,7,1,20000.0,JANVI GROUP,Dealer,Ireo The Corridors,28.0
+I47080395,Ireo The Corridors,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,2.0,2,2.0,10.0,19.0,1484.0,40500.0,4,7,1,20000.0,PROPERTY SOLUTION,Dealer,Ireo The Corridors,27.0
+Q62482362,Emaar MGF Emerald Floors Premier,R,Gurgaon,Sector 65 Gurgaon,Residential Apartment,3.0,3,3.0,2.0,5.0,1675.0,65000.0,4,3,1,32000.0,JANVI GROUP,Dealer,Emaar MGF Emerald Floors Premier,39.0
+W62482462,Emaar MGF Emerald Floors Premier,R,Gurgaon,Sector 65 Gurgaon,Residential Apartment,4.0,4,4.0,3.0,5.0,1975.0,75000.0,4,3,1,37500.0,JANVI GROUP,Dealer,Emaar MGF Emerald Floors Premier,38.0
+Y44982255,Ireo Victory Valley,R,Gurgaon,Sector 67 Gurgaon,Residential Apartment,4.0,5,4.0,25.0,41.0,3192.0,50000.0,4,5,2,25000.0,JANVI GROUP,Dealer,Ireo Victory Valley,16.0
+V71409280,Pyramid Urban Homes,R,Gurgaon,Sector 70A Gurgaon,Residential Apartment,2.0,2,1.0,12.0,14.0,603.0,15000.0,2,1,1,8500.0,GR Properties,Dealer,Pyramid Urban Homes,25.0
+W71140042,Pyramid Urban,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,2.0,2,1.0,3.0,15.0,579.0,33000.0,1,1,1,50.0,GR Properties,Dealer,Pyramid Urban,57.0
+P70885002,Pyramid Urban Homes,R,Gurgaon,Sector 70A Gurgaon,Residential Apartment,2.0,2,1.0,6.0,17.0,700.0,16000.0,4,6,1,50.0,GR Properties,Dealer,Pyramid Urban Homes,23.0
+F70429974,Pyramid Urban,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,2.0,2,1.0,6.0,15.0,700.0,23000.0,4,0,6,50.0,GR Properties,Dealer,Pyramid Urban,33.0
+C70969950,The Cedar Estate,R,Gurgaon,Sector 54 Gurgaon,Residential Apartment,3.0,3,4.0,3.0,10.0,1980.0,45000.0,4,5,3,22000.0,Perfect Deal,Dealer,The Cedar Estate,23.0
+N70656494,Unknown,R,Gurgaon,Sector 57 Gurgaon,Independent/Builder Floor,3.0,3,2.0,1.0,3.0,2000.0,60000.0,4,3,6,30000.0,Mangalam estate ,Dealer,Unknown,30.0
+M70652968,Unknown,R,Gurgaon,Sector 54 Gurgaon,Independent/Builder Floor,2.0,2,1.0,2.0,4.0,1350.0,50000.0,1,1,1,25000.0,Mangalam estate ,Dealer,Unknown,37.0
+R70656524,Unknown,R,Gurgaon,Sector 57 Gurgaon,Independent/Builder Floor,2.0,2,2.0,1.0,3.0,1800.0,45000.0,1,3,6,22500.0,Mangalam estate ,Dealer,Unknown,25.0
+Q70656622,Unknown,R,Gurgaon,DLF Phase 3,Independent/Builder Floor,4.0,4,3.0,2.0,3.0,3000.0,60000.0,4,3,6,30000.0,Mangalam estate ,Dealer,Unknown,20.0
+P70656566,Unknown,R,Gurgaon,Sector 54 Gurgaon,Independent/Builder Floor,4.0,4,3.0,1.0,3.0,2500.0,60000.0,4,3,6,30000.0,Mangalam estate ,Dealer,Unknown,24.0
+G70510840,Unknown,R,Gurgaon,rapid metro 55-56,Independent/Builder Floor,1.0,1,1.0,2.0,4.0,1100.0,36000.0,1,1,1,19500.0,Mangalam estate ,Dealer,Unknown,33.0
+K70837290,Central Park Flower Valley Aqua Front Towers,R,Gurgaon,Sector-33 Sohna,Residential Apartment,3.0,3,3.0,10.0,14.0,1789.0,38500.0,4,5,6,0.0,DEVANSHI REALTECH,Dealer,Central Park Flower Valley Aqua Front Towers,22.0
+A71389008,Antriksh Heights,R,Gurgaon,Sector 84 Gurgaon,Residential Apartment,2.0,2,4.0,4.0,19.0,1415.0,35000.0,1,5,1,17500.0,Dhara Realtech,Dealer,Antriksh Heights,25.0
+M71253936,DLF City Plots,R,Gurgaon,DLF Phase 1,Independent/Builder Floor,2.0,2,2.0,2.0,4.0,1150.0,36000.0,4,3,6,25000.0,Axiom Land Base Pvt Ltd,Dealer,DLF City Plots,31.0
+K71227338,Unitech South City 2,R,Gurgaon,Sector 50 Gurgaon,Independent/Builder Floor,4.0,5,2.0,2.0,3.0,4680.0,95000.0,4,5,1,50000.0,Property Junction,Dealer,Unitech South City 2,20.0
+C71582808,Shree Vardhman Victoria,R,Gurgaon,Sector 70 Gurgaon,Residential Apartment,2.0,2,2.0,6.0,18.0,1300.0,37000.0,4,5,1,16000.0,Make my asset,Dealer,Shree Vardhman Victoria,28.0
+G71566336,Capital Residences 360,R,Gurgaon,Sector 70A Gurgaon,Residential Apartment,2.0,2,3.0,20.0,22.0,1450.0,35000.0,4,5,1,0.0,Make my asset,Dealer,Capital Residences 360,24.0
+G71342920,Tulip Ivory,R,Gurgaon,Sector 70 Gurgaon,Residential Apartment,4.0,5,4.0,5.0,12.0,2400.0,53000.0,4,5,1,25000.0,Make my asset,Dealer,Tulip Ivory,22.0
+E71256006,Ireo The Grand Arch,R,Gurgaon,sector 58 Gurgaon,Residential Apartment,3.0,4,2.0,10.0,29.0,2427.0,50000.0,1,5,6,0.0,Make my asset,Dealer,Ireo The Grand Arch,21.0
+C70930478,M3M Escala,R,Gurgaon,Sector 70A Gurgaon,Residential Apartment,3.0,4,3.0,17.0,20.0,2100.0,42000.0,4,5,1,25000.0,Make my asset,Dealer,M3M Escala,20.0
+A70906638,Mapsko Mount Ville,R,Gurgaon,Sector 79 Gurgaon,Residential Apartment,3.0,3,3.0,6.0,30.0,1490.0,35000.0,4,8,1,1.0,Make my asset,Dealer,Mapsko Mount Ville,23.0
+U71084990,Sushant Lok 1 Builder Floors,R,Gurgaon,Sushant Lok Phase 1,Independent House/Villa,3.0,3,2.0,6.0,4.0,1935.0,75000.0,4,5,6,37500.0,Make my asset,Dealer,Sushant Lok 1 Builder Floors,39.0
+E71533016,Emaar Digihomes,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,3.0,3,4.0,16.0,32.0,2588.0,95000.0,4,3,6,0.0,CONFIDENCE REALTY,Dealer,Emaar Digihomes,37.0
+B71532928,Emaar Digihomes,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,2.0,2,2.0,12.0,32.0,1508.0,65000.0,4,4,6,0.0,CONFIDENCE REALTY,Dealer,Emaar Digihomes,43.0
+L71513326,Tata Primanti,R,Gurgaon,Sector 72 Gurgaon,Residential Apartment,4.0,5,4.0,20.0,40.0,2625.0,85000.0,4,1,1,42500.0,Group 3 Realtors,Dealer,Tata Primanti,32.0
+W71441796,M3M Skywalk,R,Gurgaon,Sector 74 Gurgaon,Residential Apartment,2.0,2,3.0,14.0,30.0,1400.0,55000.0,1,5,1,15.0,CONFIDENCE REALTY,Dealer,M3M Skywalk,39.0
+A71413146,M3M Skywalk,R,Gurgaon,Sector 74 Gurgaon,Residential Apartment,3.0,3,4.0,14.0,30.0,2000.0,60000.0,4,4,6,0.0,CONFIDENCE REALTY,Dealer,M3M Skywalk,30.0
+D71165026,Paras Irene,R,Gurgaon,Sector 70A Gurgaon,Residential Apartment,3.0,4,4.0,6.0,20.0,2150.0,50000.0,4,5,6,45000.0,Group 3 Realtors,Dealer,Paras Irene,23.0
+L71127354,Emaar Digihomes,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,3.0,3,3.0,12.0,32.0,2588.0,85000.0,4,3,6,42500.0,Arihant Real India Group,Dealer,Emaar Digihomes,33.0
+O71126116,Emaar Digihomes,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,2.0,2,2.0,12.0,32.0,1508.0,65000.0,4,1,6,32500.0,Arihant Real India Group,Dealer,Emaar Digihomes,43.0
+R69097120,Tata Primanti,R,Gurgaon,Sector 72 Gurgaon,Residential Apartment,4.0,5,4.0,7.0,40.0,2905.0,85000.0,4,5,1,1.0,Group 3 Realtors,Dealer,Tata Primanti,29.0
+Z71713406,Unknown,R,Gurgaon,DLF Phase 4,Independent/Builder Floor,3.0,3,2.0,3.0,4.0,2100.0,50000.0,1,3,1,0.0,Today Estates,Dealer,Unknown,24.0
+K71712422,Unknown,R,Gurgaon,Sushant Lok Phase 1,Independent/Builder Floor,4.0,4,2.0,2.0,4.0,2100.0,90000.0,4,3,1,0.0,Today Estates,Dealer,Unknown,43.0
+T71691504,Emaar Digihomes,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,3.0,3,3.0,11.0,32.0,2588.0,50000.0,4,5,1,0.0,Shivani Realty ,Dealer,Emaar Digihomes,19.0
+L71676172,Unknown,R,Gurgaon,DLF Phase 4,Independent/Builder Floor,3.0,3,2.0,1.0,4.0,2150.0,90000.0,4,5,1,45000.0,Today Estates,Dealer,Unknown,42.0
+C71661536,Unknown,R,Gurgaon,Suncity,Independent/Builder Floor,4.0,4,2.0,4.0,4.0,3500.0,50000.0,4,3,1,0.0,Today Estates,Dealer,Unknown,14.0
+E71655484,Unknown,R,Gurgaon,Sushant Lok Phase 1,Independent/Builder Floor,3.0,3,2.0,1.0,4.0,4200.0,75000.0,1,3,1,0.0,Today Estates,Dealer,Unknown,18.0
+Y71636990,Unknown,R,Gurgaon,Sushant Lok Phase 1,Independent/Builder Floor,3.0,3,2.0,2.0,4.0,1950.0,65000.0,4,3,1,0.0,Today Estates,Dealer,Unknown,33.0
+E71636884,Unknown,R,Gurgaon,DLF Phase 4,Independent/Builder Floor,4.0,3,2.0,1.0,4.0,2200.0,50000.0,4,3,1,0.0,Today Estates,Dealer,Unknown,23.0
+I71616104,Unknown,R,Gurgaon,Sushant Lok Phase 1,Independent/Builder Floor,3.0,3,2.0,1.0,4.0,1950.0,90000.0,1,3,1,0.0,Today Estates,Dealer,Unknown,46.0
+Q71374490,Unknown,R,Gurgaon,DLF Phase 1,Independent/Builder Floor,4.0,5,2.0,1.0,4.0,4500.0,50000.0,4,3,1,0.0,Today Estates,Dealer,Unknown,11.0
+M71276702,Unknown,R,Gurgaon,Sushant Lok Phase 1,Independent/Builder Floor,4.0,4,2.0,3.0,4.0,2800.0,50000.0,4,3,1,0.0,Today Estates,Dealer,Unknown,18.0
+K71276518,Unknown,R,Gurgaon,DLF Phase 4,Independent/Builder Floor,4.0,4,2.0,1.0,4.0,2200.0,50000.0,4,3,1,65000.0,Today Estates,Dealer,Unknown,23.0
+M71267698,The Close South,R,Gurgaon,Nirvana Country,Residential Apartment,3.0,4,3.0,2.0,17.0,2531.0,50000.0,1,5,2,30.0,Shivani Realty ,Dealer,The Close South,20.0
+J71259466,The Close South,R,Gurgaon,Nirvana Country,Residential Apartment,3.0,4,3.0,2.0,17.0,2531.0,50000.0,1,5,2,30.0,Shivani Realty ,Dealer,The Close South,20.0
+P71183414,Unknown,R,Gurgaon,Sushant Lok Phase 1,Independent/Builder Floor,4.0,4,2.0,2.0,4.0,2800.0,50000.0,4,3,1,50000.0,Today Estates,Dealer,Unknown,18.0
+L71167718,Unknown,R,Gurgaon,DLF Phase 1,Independent/Builder Floor,4.0,5,2.0,2.0,4.0,4500.0,50000.0,4,3,1,0.0,Today Estates,Dealer,Unknown,11.0
+H71095166,Unknown,R,Gurgaon,DLF Phase 1,Independent/Builder Floor,4.0,5,2.0,2.0,4.0,3000.0,50000.0,4,3,1,75000.0,Today Estates,Dealer,Unknown,17.0
+O71049352,Unknown,R,Gurgaon,Sushant Lok Phase 1,Independent/Builder Floor,3.0,3,2.0,1.0,4.0,1750.0,78000.0,4,3,1,0.0,Today Estates,Dealer,Unknown,45.0
+Z71041570,Unknown,R,Gurgaon,DLF Phase 4,Independent/Builder Floor,4.0,4,2.0,3.0,3.0,2200.0,95000.0,1,3,1,47500.0,Today Estates,Dealer,Unknown,43.0
+Q70961466,Unknown,R,Gurgaon,DLF Phase 2,Independent/Builder Floor,3.0,4,2.0,1.0,4.0,2100.0,95000.0,4,1,1,0.0,Today Estates,Dealer,Unknown,45.0
+Q70833684,Unknown,R,Gurgaon,Sushant Lok Phase 1,Independent/Builder Floor,4.0,5,2.0,3.0,3.0,3500.0,95000.0,4,3,1,47500.0,Today Estates,Dealer,Unknown,27.0
+K70717044,Unknown,R,Gurgaon,Sushant Lok Phase 1,Independent/Builder Floor,3.0,3,2.0,2.0,4.0,1800.0,70000.0,4,5,1,50000.0,Today Estates,Dealer,Unknown,39.0
+A71415332,Unitech Uniworld Gardens,R,Gurgaon,Sector 47 Gurgaon,Residential Apartment,3.0,3,4.0,10.0,19.0,2087.0,65000.0,4,0,2,0.0,Tyagi properties ,Dealer,Unitech Uniworld Gardens,31.0
+C71364814,Bestech Park View Spa Next,R,Gurgaon,Sector 67 Gurgaon,Independent/Builder Floor,3.0,3,2.0,6.0,14.0,2800.0,55000.0,1,0,2,45000.0,City Links,Dealer,Bestech Park View Spa Next,20.0
+Q71771818,DLF Regency Park 1,R,Gurgaon,DLF Phase 4,Residential Apartment,2.0,2,2.0,9.0,16.0,1105.0,49000.0,1,0,3,50.0,City Links,Dealer,DLF Regency Park 1,44.0
+R71766786,Kendriya Vihar,R,Gurgaon,Sector 56 Gurgaon,Independent House/Villa,2.0,2,2.0,6.0,3.0,1200.0,35000.0,4,0,2,17500.0,City Links,Dealer,Kendriya Vihar,29.0
+J71766520,DLF Park Place,R,Gurgaon,Sector 54 Gurgaon,Residential Apartment,3.0,3,2.0,5.0,30.0,1983.0,50000.0,4,0,2,50.0,City Links,Dealer,DLF Park Place,25.0
+O71753270,Green Court,R,Gurgaon,Sector 90 Gurgaon,Residential Apartment,2.0,2,1.0,5.0,14.0,690.0,25000.0,1,5,6,50.0,insta India Property ,Dealer,Green Court,36.0
+D71741426,Signature Global the Millennia,R,Gurgaon,Sector 37D Gurgaon,Residential Apartment,2.0,2,3.0,9.0,14.0,596.0,20000.0,4,8,6,50.0,insta India Property ,Dealer,Signature Global the Millennia,34.0
+K71729662,DLF Wellington Estate,R,Gurgaon,DLF Phase 5,Residential Apartment,3.0,2,2.0,8.0,14.0,1412.0,60000.0,4,0,3,50.0,City Links,Dealer,DLF Wellington Estate,42.0
+M71721958,Pyramid Urban,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,2.0,2,1.0,7.0,14.0,591.0,23000.0,4,5,1,11500.0,Shree Vardhman Mantra,Dealer,Pyramid Urban,39.0
+L71721890,Pyramid Urban,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,2.0,2,1.0,5.0,14.0,700.0,33000.0,1,5,1,16500.0,Shree Vardhman Mantra,Dealer,Pyramid Urban,47.0
+X71675350,Shree Vardhman Mantra,R,Gurgaon,Sector 67 Gurgaon,Residential Apartment,2.0,2,1.0,13.0,13.0,800.0,30000.0,1,5,1,15000.0,koncept realty,Dealer,Shree Vardhman Mantra,38.0
+B71610360,Shree Vardhman Mantra,R,Gurgaon,Sector 67 Gurgaon,Residential Apartment,2.0,2,1.0,2.0,13.0,800.0,22500.0,4,5,1,10000.0,koncept realty,Dealer,Shree Vardhman Mantra,28.0
+P71610256,The Royal Residency CGHS,R,Gurgaon,Sector 45 Gurgaon,Residential Apartment,3.0,4,4.0,10.0,13.0,2250.0,44000.0,4,5,1,22000.0,Om Realty,Dealer,The Royal Residency CGHS,20.0
+C71589954,Signature Global the Millennia,R,Gurgaon,Sector 37D Gurgaon,Residential Apartment,2.0,2,3.0,8.0,14.0,596.0,13700.0,2,6,6,50.0,insta India Property ,Dealer,Signature Global the Millennia,23.0
+D71585612,Signature Global the Millennia,R,Gurgaon,Sector 37D Gurgaon,Residential Apartment,2.0,2,3.0,7.0,23.0,585.0,20000.0,4,5,6,50.0,insta India Property ,Dealer,Signature Global the Millennia,34.0
+Z71584720,Signature Global the Millennia,R,Gurgaon,Sector 37D Gurgaon,Residential Apartment,2.0,2,3.0,5.0,14.0,58594.0,14000.0,2,5,6,50.0,insta India Property ,Dealer,Signature Global the Millennia,0.0
+C71560856,Kendriya Vihar,R,Gurgaon,Sector 56 Gurgaon,Residential Apartment,2.0,2,2.0,5.0,10.0,1200.0,45000.0,1,3,2,22500.0,City Links,Dealer,Kendriya Vihar,38.0
+J71550274,Ansal API Esencia,R,Gurgaon,Sector 67 Gurgaon,Independent/Builder Floor,4.0,4,3.0,4.0,4.0,1900.0,50100.0,4,5,1,25000.0,Shree Vardhman Mantra,Dealer,Ansal API Esencia,26.0
+L71549070,Shree Vardhman Mantra,R,Gurgaon,Sector 67 Gurgaon,Residential Apartment,2.0,2,1.0,4.0,13.0,800.0,21100.0,4,1,1,11000.0,Shree Vardhman Mantra,Dealer,Shree Vardhman Mantra,26.0
+Y71548722,Shree Vardhman Mantra,R,Gurgaon,Sector 67 Gurgaon,Residential Apartment,2.0,2,1.0,9.0,13.0,800.0,21000.0,4,3,1,11000.0,Shree Vardhman Mantra,Dealer,Shree Vardhman Mantra,26.0
+I71550160,Ansal API Esencia,R,Gurgaon,Sector 67 Gurgaon,Independent/Builder Floor,3.0,3,2.0,2.0,4.0,1600.0,50000.0,4,5,1,25000.0,Shree Vardhman Mantra,Dealer,Ansal API Esencia,31.0
+C71549420,Shree Vardhman Mantra,R,Gurgaon,Sector 67 Gurgaon,Residential Apartment,2.0,2,1.0,6.0,13.0,800.0,21150.0,4,5,1,11000.0,Shree Vardhman Mantra,Dealer,Shree Vardhman Mantra,26.0
+D71544950,Emaar Digihomes,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,2.0,2,2.0,12.0,32.0,1508.0,65000.0,4,5,1,32500.0,koncept realty,Dealer,Emaar Digihomes,43.0
+Z71544874,4S Aradhya Homes,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,4.0,4,2.0,2.0,4.0,1800.0,50000.0,4,5,1,25000.0,koncept realty,Dealer,4S Aradhya Homes,28.0
+X71531970,DLF Regency Park 1,R,Gurgaon,DLF Phase 4,Residential Apartment,2.0,2,2.0,22.0,26.0,1105.0,50000.0,4,0,3,50.0,City Links,Dealer,DLF Regency Park 1,45.0
+O71528902,Parsvnath Green Ville,R,Gurgaon,Sector 48 Gurgaon,Residential Apartment,3.0,3,4.0,10.0,19.0,1965.0,49500.0,4,5,1,25000.0,Om Realty,Dealer,Parsvnath Green Ville,25.0
+Y71523126,Ansal API Esencia,R,Gurgaon,Sector 67 Gurgaon,Residential Apartment,4.0,4,4.0,2.0,2.0,1660.0,50000.0,4,5,1,25000.0,Shree Vardhman Mantra,Dealer,Ansal API Esencia,30.0
+F70280550,Unknown,R,Gurgaon,DLF Phase 1,Independent/Builder Floor,3.0,4,3.0,1.0,2.0,4500.0,70000.0,1,0,3,50.0,City Links,Dealer,Unknown,16.0
+M71450288,Pyramid Urban,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,2.0,2,1.0,11.0,14.0,591.0,32000.0,1,3,6,16000.0,City Links,Dealer,Pyramid Urban,54.0
+R71428162,CGHS Airport Apartment,R,Gurgaon,Sector 47 Gurgaon,Residential Apartment,3.0,4,4.0,8.0,10.0,2100.0,44000.0,4,5,2,22000.0,Om Realty,Dealer,CGHS Airport Apartment,21.0
+P71425386,Shree Vardhman Mantra,R,Gurgaon,Sector 67 Gurgaon,Residential Apartment,2.0,2,1.0,5.0,13.0,800.0,23000.0,4,5,1,11500.0,koncept realty,Dealer,Shree Vardhman Mantra,29.0
+E71417192,Corona Optus,R,Gurgaon,Sector 37C Gurgaon,Residential Apartment,3.0,3,4.0,7.0,14.0,1763.0,35000.0,1,3,1,17500.0,Deep Associates ,Dealer,Corona Optus,20.0
+U71412720,Pyramid Urban,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,2.0,2,1.0,6.0,14.0,598.0,32000.0,1,5,1,16000.0,koncept realty,Dealer,Pyramid Urban,54.0
+Z71401182,Bestech Park View Spa Next,R,Gurgaon,Sector 67 Gurgaon,Residential Apartment,1.0,1,1.0,3.0,5.0,220.0,10000.0,4,0,2,8000.0,City Links,Dealer,Bestech Park View Spa Next,45.0
+W71392906,Kendriya Vihar,R,Gurgaon,Sector 56 Gurgaon,Independent House/Villa,2.0,2,2.0,6.0,3.0,1539.0,20000.0,4,0,2,15000.0,City Links,Dealer,Kendriya Vihar,13.0
+W71382700,Ireo Victory Valley,R,Gurgaon,Sector 67 Gurgaon,Residential Apartment,3.0,3,3.0,9.0,51.0,2662.0,80000.0,4,0,2,40000.0,City Links,Dealer,Ireo Victory Valley,30.0
+R71382120,Emaar MGF Emerald Floors Premier,R,Gurgaon,Sector 65 Gurgaon,Independent/Builder Floor,3.0,3,2.0,1.0,3.0,1400.0,58000.0,4,0,1,30000.0,City Links,Dealer,Emaar MGF Emerald Floors Premier,41.0
+R71381468,Signature Andour Heights,R,Gurgaon,Sector 71 Gurgaon,Residential Apartment,2.0,2,1.0,6.0,13.0,639.0,25000.0,4,0,1,15000.0,City Links,Dealer,Signature Andour Heights,39.0
+Q71381180,Tulip Lemon,R,Gurgaon,Sector 69 Gurgaon,Residential Apartment,2.0,2,1.0,5.0,11.0,482.0,18000.0,4,0,1,8000.0,City Links,Dealer,Tulip Lemon,37.0
+G71370106,JMD Gardens,R,Gurgaon,Sector 33 Gurgaon,Residential Apartment,4.0,4,4.0,10.0,17.0,2450.0,70000.0,1,5,2,35000.0,Om Realty,Dealer,JMD Gardens,29.0
+D71364068,Pyramid Urban,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,2.0,2,2.0,4.0,14.0,591.0,25000.0,4,0,1,15000.0,City Links,Dealer,Pyramid Urban,42.0
+K71363628,Ansal API Esencia,R,Gurgaon,Sector 67 Gurgaon,Independent/Builder Floor,4.0,4,2.0,2.0,3.0,2700.0,55000.0,4,0,2,27500.0,City Links,Dealer,Ansal API Esencia,20.0
+C70832912,Pyramid Urban,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,2.0,2,1.0,3.0,14.0,591.0,34500.0,1,5,1,17500.0,Individual Consultant,Dealer,Pyramid Urban,58.0
+G70832486,Pyramid Urban,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,2.0,2,1.0,3.0,14.0,591.0,24000.0,4,4,1,12000.0,Individual Consultant,Dealer,Pyramid Urban,41.0
+Y71343350,Parsvnath Green Ville,R,Gurgaon,Sector 48 Gurgaon,Residential Apartment,3.0,3,4.0,10.0,19.0,2085.0,50000.0,4,5,2,25000.0,Om Realty,Dealer,Parsvnath Green Ville,24.0
+P71326154,Unknown,R,Gurgaon,Sector 52 Gurgaon,Independent/Builder Floor,3.0,3,4.0,1.0,2.0,1575.0,40000.0,4,5,1,20000.0,Om Realty,Dealer,Unknown,25.0
+S71313266,Shree Vardhman Mantra,R,Gurgaon,Sector 67 Gurgaon,Residential Apartment,2.0,2,1.0,12.0,13.0,800.0,26000.0,1,5,1,13000.0,koncept realty,Dealer,Shree Vardhman Mantra,32.0
+K71280482,Orchid Petals,R,Gurgaon,Sector 49 Gurgaon,Residential Apartment,3.0,3,4.0,4.0,14.0,1805.0,60000.0,4,5,2,30000.0,Om Realty,Dealer,Orchid Petals,33.0
+E71270186,Pyramid Urban,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,2.0,2,1.0,6.0,14.0,579.0,23000.0,4,5,1,12500.0,koncept realty,Dealer,Pyramid Urban,40.0
+J71265262,Unitech Uniworld Gardens,R,Gurgaon,Sector 47 Gurgaon,Residential Apartment,3.0,4,4.0,3.0,19.0,2027.0,65000.0,4,5,2,35000.0,Om Realty,Dealer,Unitech Uniworld Gardens,32.0
+N71265104,Shree Ganesh Apartments,R,Gurgaon,Sector 45 Gurgaon,Residential Apartment,3.0,3,4.0,6.0,8.0,1660.0,40000.0,4,5,2,20000.0,Om Realty,Dealer,Shree Ganesh Apartments,24.0
+O71161264,Pyramid Urban,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,2.0,2,1.0,5.0,14.0,598.0,33000.0,1,5,1,16500.0,koncept realty,Dealer,Pyramid Urban,55.0
+D71062544,Ansal API Esencia,R,Gurgaon,Sector 67 Gurgaon,Independent/Builder Floor,3.0,3,2.0,1.0,2.0,1300.0,43000.0,4,7,1,21500.0,Shree Vardhman Mantra,Dealer,Ansal API Esencia,33.0
+Q71062918,Ansal API Esencia,R,Gurgaon,Sector 67 Gurgaon,Independent/Builder Floor,4.0,4,3.0,4.0,4.0,2250.0,50000.0,4,1,1,25000.0,Shree Vardhman Mantra,Dealer,Ansal API Esencia,22.0
+V71062326,Ansal API Esencia,R,Gurgaon,Sector 67 Gurgaon,Independent/Builder Floor,3.0,3,3.0,2.0,2.0,1820.0,48000.0,4,7,1,24000.0,Shree Vardhman Mantra,Dealer,Ansal API Esencia,26.0
+P71062088,Ansal API Esencia,R,Gurgaon,Sector 67 Gurgaon,Independent/Builder Floor,3.0,3,3.0,1.0,2.0,1660.0,40000.0,4,5,1,20000.0,Shree Vardhman Mantra,Dealer,Ansal API Esencia,24.0
+G71061412,Shree Vardhman Mantra,R,Gurgaon,Sector 67 Gurgaon,Residential Apartment,2.0,2,1.0,10.0,13.0,800.0,21000.0,4,1,1,10500.0,Shree Vardhman Mantra,Dealer,Shree Vardhman Mantra,26.0
+H70990654,Shree Vardhman Mantra,R,Gurgaon,Sector 67 Gurgaon,Residential Apartment,2.0,2,1.0,6.0,13.0,800.0,24000.0,4,7,1,1.0,Shree Vardhman Mantra,Dealer,Shree Vardhman Mantra,30.0
+W71040964,Ansal API Esencia,R,Gurgaon,Sector 67 Gurgaon,Independent House/Villa,4.0,4,3.0,6.0,2.0,300.0,45000.0,4,0,2,22500.0,Shree Vardhman Mantra,Dealer,Ansal API Esencia,150.0
+B71030346,Ansal API Esencia,R,Gurgaon,Sector 67 Gurgaon,Independent House/Villa,3.0,3,3.0,6.0,2.0,251.0,48000.0,4,3,1,22000.0,Shree Vardhman Mantra,Dealer,Ansal API Esencia,191.0
+F71011250,Ansal API Esencia,R,Gurgaon,Sector 67 Gurgaon,Independent House/Villa,3.0,3,3.0,6.0,2.0,251.0,35000.0,4,0,2,17000.0,Shree Vardhman Mantra,Dealer,Ansal API Esencia,139.0
+G70990914,Shree Vardhman Mantra,R,Gurgaon,Sector 67 Gurgaon,Residential Apartment,2.0,2,1.0,12.0,13.0,800.0,21000.0,4,5,1,10500.0,koncept realty,Dealer,Shree Vardhman Mantra,26.0
+Y70873940,Pyramid Urban,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,2.0,2,1.0,8.0,14.0,591.0,23000.0,4,7,1,17000.0,Individual Consultant,Dealer,Pyramid Urban,39.0
+W70873634,Pyramid Urban,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,2.0,2,1.0,8.0,14.0,591.0,22000.0,4,7,1,17000.0,Individual Consultant,Dealer,Pyramid Urban,37.0
+G70873534,Pyramid Urban,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,2.0,2,1.0,8.0,14.0,591.0,24700.0,4,7,1,17000.0,Individual Consultant,Dealer,Pyramid Urban,42.0
+X70873150,Pyramid Urban,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,2.0,2,1.0,8.0,14.0,591.0,25500.0,4,7,1,17000.0,Individual Consultant,Dealer,Pyramid Urban,43.0
+T70873060,Pyramid Urban,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,2.0,2,1.0,8.0,14.0,591.0,35500.0,2,7,1,17000.0,Individual Consultant,Dealer,Pyramid Urban,60.0
+G70787494,Shree Vardhman Mantra,R,Gurgaon,Sector 67 Gurgaon,Residential Apartment,2.0,2,1.0,8.0,13.0,800.0,30000.0,1,5,1,15000.0,koncept realty,Dealer,Shree Vardhman Mantra,38.0
+U71151248,Sare Homes,R,Gurgaon,Sector 92 Gurgaon,Residential Apartment,4.0,4,2.0,5.0,15.0,1750.0,25500.0,4,3,6,12500.0,Gateway Realty,Dealer,Sare Homes,15.0
+Z71136562,Unknown,R,Gurgaon,Sushant Lok Phase 1,Independent/Builder Floor,3.0,3,2.0,1.0,4.0,2250.0,75000.0,4,5,6,15.0,K K Properties,Dealer,Unknown,33.0
+H69625438,Central Park Flower Valley,R,Gurgaon,Sector-33 Sohna,Residential Apartment,3.0,3,4.0,6.0,13.0,1789.0,45000.0,4,1,6,22500.0,ARB Pvt Ltd,Dealer,Central Park Flower Valley,25.0
+Y71399780,Central Park,R,Gurgaon,Sector 42 Gurgaon,Residential Apartment,3.0,5,3.0,5.0,13.0,2400.0,50000.0,1,5,1,1.0,Investors Propmart,Dealer,Central Park,21.0
+H71286602,DLF Park Place,R,Gurgaon,Sector 54 Gurgaon,Residential Apartment,3.0,4,4.0,7.0,30.0,1875.0,50000.0,4,5,1,30.0,Golden Key,Dealer,DLF Park Place,27.0
+O71181442,Indiabulls Enigma,R,Gurgaon,Sector 110 Gurgaon,Residential Apartment,4.0,5,3.0,8.0,15.0,3400.0,50000.0,1,5,1,0.0,individual consultant,Dealer,Indiabulls Enigma,15.0
+L71149508,DLF City Plots Phase 3,R,Gurgaon,DLF Phase 3,Independent/Builder Floor,4.0,4,3.0,1.0,4.0,2800.0,85000.0,4,5,6,1.0,Investors Propmart,Dealer,DLF City Plots Phase 3,30.0
+L70931056,Parsvnath Exotica,R,Gurgaon,Sector 53 Gurgaon,Residential Apartment,3.0,4,4.0,6.0,18.0,2895.0,50000.0,1,5,2,21.0,Golden Key,Dealer,Parsvnath Exotica,17.0
+E71486380,Bestech Park View City,R,Gurgaon,Sector 48 Gurgaon,Residential Apartment,4.0,4,4.0,8.0,14.0,2567.0,62000.0,4,5,2,30000.0,Bajrang Associates,Dealer,Bestech Park View City,24.0
+P71360268,Ireo The Corridors,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,3.0,3,2.0,7.0,19.0,1727.0,52000.0,4,5,1,0.0,Bajrang Associates,Dealer,Ireo The Corridors,30.0
+E71253250,Sare Homes,R,Gurgaon,Sector 92 Gurgaon,Residential Apartment,3.0,2,2.0,3.0,4.0,1532.0,19000.0,1,5,1,1.0,Philby Real Estate,Dealer,Sare Homes,12.0
+D71279072,Bestech Park View City,R,Gurgaon,Sector 48 Gurgaon,Residential Apartment,3.0,3,4.0,1.0,14.0,1776.0,45000.0,4,5,2,25000.0,Bajrang Associates,Dealer,Bestech Park View City,25.0
+M70859398,Bestech Park View City,R,Gurgaon,Sector 48 Gurgaon,Residential Apartment,3.0,3,4.0,4.0,14.0,2075.0,60000.0,4,5,2,25000.0,Bajrang Associates,Dealer,Bestech Park View City,29.0
+G70824596,Bestech Park View City,R,Gurgaon,Sector 48 Gurgaon,Residential Apartment,3.0,3,4.0,4.0,14.0,2075.0,60000.0,4,5,2,25000.0,Bajrang Associates,Dealer,Bestech Park View City,29.0
+N71546678,DLF City Independent Floors Phase I and II,R,Gurgaon,DLF Phase 2,Residential Apartment,4.0,4,4.0,2.0,4.0,3600.0,50000.0,4,1,1,180000.0,Luxury Habitat,Dealer,DLF City Independent Floors Phase I and II,14.0
+M71363468,DLF Oakwood Estate,R,Gurgaon,DLF Phase 2,Residential Apartment,4.0,4,2.0,5.0,14.0,1760.0,70000.0,4,4,3,35000.0,AMBY BUSINESS PARK,Dealer,DLF Oakwood Estate,40.0
+Y71159598,Raheja Atlantis,R,Gurgaon,Sector 31 Gurgaon,Residential Apartment,3.0,3,3.0,18.0,18.0,2435.0,80000.0,4,5,3,40000.0,Shri Shyam Estate,Dealer,Raheja Atlantis,33.0
+L71100506,Ireo The Grand Arch,R,Gurgaon,sector 58 Gurgaon,Residential Apartment,3.0,3,1.0,10.0,29.0,2156.0,50000.0,1,5,1,75000.0,Shri Shyam Estate,Dealer,Ireo The Grand Arch,23.0
+E71085418,Eros Rosewood City,R,Gurgaon,Sector 49 Gurgaon,Residential Apartment,5.0,5,4.0,3.0,4.0,5500.0,95000.0,4,5,6,50.0,RIGHTWAY REALTORS,Dealer,Eros Rosewood City,17.0
+G71762550,Nirvana Cedar Crest,R,Gurgaon,Nirvana Country,Independent House/Villa,5.0,6,4.0,6.0,2.0,5381.0,50000.0,4,5,6,0.0,Narayan estate ,Dealer,Nirvana Cedar Crest,9.0
+U71754126,Hamlin Apartments,R,Gurgaon,Sector 43 Gurgaon,Residential Apartment,3.0,4,4.0,2.0,11.0,2000.0,47000.0,4,1,3,22500.0,metrobest properties ,Dealer,Hamlin Apartments,24.0
+W71737194,CGHS HEWO Apartments,R,Gurgaon,Sector 56 Gurgaon,Residential Apartment,3.0,4,2.0,6.0,10.0,2410.0,55000.0,4,1,3,27500.0,metrobest properties ,Dealer,CGHS HEWO Apartments,23.0
+J71722106,Unitech The Residences,R,Gurgaon,Sector 33 Gurgaon,Residential Apartment,3.0,4,2.0,8.0,14.0,1545.0,40000.0,4,5,1,20000.0,Balaji Properties,Dealer,Unitech The Residences,26.0
+V71722028,Unitech Harmony,R,Gurgaon,Nirvana Country,Residential Apartment,2.0,2,2.0,8.0,19.0,1762.0,50000.0,4,3,2,25000.0,Balaji Properties,Dealer,Unitech Harmony,28.0
+V71717560,Vatika Iris Floors,R,Gurgaon,Sector 82 Gurgaon,Independent/Builder Floor,3.0,3,3.0,1.0,3.0,1450.0,27000.0,4,5,1,15000.0,Griha Properties ,Dealer,Vatika Iris Floors,19.0
+B71696680,Mapsko Paradise,R,Gurgaon,Sector 83 Gurgaon,Residential Apartment,3.0,3,3.0,6.0,12.0,1340.0,20000.0,4,5,1,13000.0,Griha Properties ,Dealer,Mapsko Paradise,15.0
+I71657354,Omaxe The Nile,R,Gurgaon,Sector 49 Gurgaon,Residential Apartment,3.0,4,4.0,6.0,13.0,2082.0,50000.0,4,5,2,25000.0,Vivaan property ,Dealer,Omaxe The Nile,24.0
+W71623576,Emaar MGF Emerald Floors Premier,R,Gurgaon,Sector 65 Gurgaon,Residential Apartment,3.0,3,4.0,3.0,4.0,1600.0,44100.0,4,5,1,50.0,Vande Realty,Dealer,Emaar MGF Emerald Floors Premier,28.0
+G71588332,Technocrat Society,R,Gurgaon,Sector 56 Gurgaon,Residential Apartment,2.0,2,4.0,7.0,7.0,2000.0,45000.0,1,1,3,22500.0,metrobest properties ,Dealer,Technocrat Society,22.0
+O71575880,Sagavi Apartments,R,Gurgaon,Sector 55 Gurgaon,Residential Apartment,4.0,4,4.0,6.0,8.0,2550.0,65000.0,4,3,3,32500.0,metrobest properties ,Dealer,Sagavi Apartments,25.0
+G71479584,Unitech Fresco,R,Gurgaon,Nirvana Country,Residential Apartment,2.0,2,4.0,2.0,19.0,1418.0,50000.0,4,5,1,15.0,Narayan estate ,Dealer,Unitech Fresco,35.0
+Q71476980,Unitech Vista Villas,R,Gurgaon,Sector 46 Gurgaon,Independent House/Villa,4.0,5,2.0,6.0,3.0,4500.0,50000.0,4,0,3,200000.0,AVEC REALTY PRIVATE LIMITED,Dealer,Unitech Vista Villas,11.0
+D69825514,Mapsko Paradise,R,Gurgaon,Sector 83 Gurgaon,Residential Apartment,3.0,3,3.0,1.0,12.0,1340.0,17000.0,4,5,1,11000.0,Griha Properties ,Dealer,Mapsko Paradise,13.0
+G71448368,CGHS HEWO Apartments,R,Gurgaon,Sector 56 Gurgaon,Residential Apartment,3.0,3,2.0,2.0,9.0,2000.0,42000.0,4,1,3,0.0,metrobest properties ,Dealer,CGHS HEWO Apartments,21.0
+G71257104,Pyramid Urban Homes 2,R,Gurgaon,Sector 86 Gurgaon,Residential Apartment,2.0,2,2.0,5.0,13.0,810.0,13000.0,2,1,5,6500.0,Affordable Housing Gurgaon,Dealer,Pyramid Urban Homes 2,16.0
+W71413168,Raheja Vedaanta,R,Gurgaon,Sector 108 Gurgaon,Residential Apartment,2.0,2,2.0,9.0,22.0,1422.0,20000.0,4,5,1,50.0,ASR PROPERTY ,Dealer,Raheja Vedaanta,14.0
+G71406396,CGHS HEWO Apartments,R,Gurgaon,Sector 56 Gurgaon,Residential Apartment,3.0,4,2.0,9.0,9.0,2400.0,50000.0,4,3,3,25000.0,metrobest properties ,Dealer,CGHS HEWO Apartments,21.0
+D71283070,Ireo The Corridors,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,2.0,2,2.0,1.0,19.0,1484.0,38150.0,4,5,6,50.0,Vande Realty,Dealer,Ireo The Corridors,26.0
+N71301492,CGHS HEWO Apartments,R,Gurgaon,Sector 56 Gurgaon,Residential Apartment,3.0,3,2.0,8.0,9.0,2000.0,65000.0,1,5,3,32500.0,metrobest properties ,Dealer,CGHS HEWO Apartments,32.0
+H71233944,Unitech South City 2,R,Gurgaon,Sector 50 Gurgaon,Independent/Builder Floor,4.0,4,4.0,1.0,4.0,587.0,50000.0,4,3,6,50000.0,Balaji Properties,Dealer,Unitech South City 2,85.0
+H71210248,Sobha City,R,Gurgaon,Sector 108 Gurgaon,Residential Apartment,4.0,4,3.0,10.0,24.0,2913.0,43000.0,4,5,1,50.0,ASR PROPERTY ,Dealer,Sobha City,15.0
+M71210118,Puri Diplomatic Greens,R,Gurgaon,Sector 111 Gurgaon,Residential Apartment,4.0,5,4.0,12.0,21.0,2950.0,45000.0,4,5,1,50.0,ASR PROPERTY ,Dealer,Puri Diplomatic Greens,15.0
+I71171442,Emaar MGF Emerald Floors Premier,R,Gurgaon,Sector 65 Gurgaon,Residential Apartment,3.0,3,2.0,2.0,5.0,1600.0,46000.0,4,5,1,50.0,Vande Realty,Dealer,Emaar MGF Emerald Floors Premier,29.0
+T71154380,Orchid Petals,R,Gurgaon,Sector 49 Gurgaon,Residential Apartment,3.0,4,4.0,8.0,14.0,2061.0,70000.0,1,5,2,35000.0,Vivaan property ,Dealer,Orchid Petals,34.0
+Z71110328,Orchid Petals,R,Gurgaon,Sector 49 Gurgaon,Residential Apartment,3.0,3,3.0,5.0,14.0,2033.0,52000.0,4,5,2,27000.0,Vivaan property ,Dealer,Orchid Petals,26.0
+F71109992,Signature Andour Heights,R,Gurgaon,Sector 71 Gurgaon,Residential Apartment,2.0,2,1.0,8.0,13.0,600.0,32000.0,1,5,2,16000.0,Vivaan property ,Dealer,Signature Andour Heights,53.0
+H71081054,Emaar Emerald Hills,R,Gurgaon,Sector 65 Gurgaon,Residential Apartment,3.0,3,4.0,2.0,2.0,1395.0,44100.0,4,5,1,50.0,Vande Realty,Dealer,Emaar Emerald Hills,32.0
+Q71006878,Experion The Heartsong,R,Gurgaon,Sector 108 Gurgaon,Residential Apartment,3.0,3,4.0,10.0,14.0,2338.0,58000.0,4,5,1,50.0,ASR PROPERTY ,Dealer,Experion The Heartsong,25.0
+I71007506,SBTL Caladium,R,Gurgaon,Sector 109 Gurgaon,Residential Apartment,3.0,4,3.0,11.0,19.0,2430.0,32000.0,4,5,1,50.0,ASR PROPERTY ,Dealer,SBTL Caladium,13.0
+V71006650,La Vida by Tata Housing,R,Gurgaon,Sector 113 Gurgaon ,Residential Apartment,3.0,3,2.0,12.0,25.0,2150.0,40000.0,4,5,6,50.0,ASR PROPERTY ,Dealer,La Vida by Tata Housing,19.0
+C70931500,Paras Dews,R,Gurgaon,Sector 106 Gurgaon,Residential Apartment,4.0,4,4.0,8.0,24.0,2355.0,36000.0,4,5,6,50.0,ASR PROPERTY ,Dealer,Paras Dews,15.0
+L70881614,Unitech South City 2,R,Gurgaon,Sector 50 Gurgaon,Independent/Builder Floor,3.0,3,4.0,1.0,3.0,242.0,40000.0,4,5,1,20000.0,Balaji Properties,Dealer,Unitech South City 2,165.0
+U70912684,Emaar Emerald Hills,R,Gurgaon,Sector 65 Gurgaon,Residential Apartment,3.0,3,4.0,2.0,2.0,1395.0,44500.0,4,5,1,50.0,Vande Realty,Dealer,Emaar Emerald Hills,32.0
+J70843986,Emaar MGF Emerald Estate,R,Gurgaon,Sector 65 Gurgaon,Residential Apartment,3.0,3,3.0,1.0,13.0,1395.0,48000.0,4,4,2,25000.0,Gulati Associates,Dealer,Emaar MGF Emerald Estate,34.0
+A70809180,Eros Wembley Estate,R,Gurgaon,Sector 50 Gurgaon,Residential Apartment,2.0,2,1.0,7.0,13.0,1040.0,42000.0,1,5,2,1.0,Balaji Properties,Dealer,Eros Wembley Estate,40.0
+M70783114,Orchid Petals,R,Gurgaon,Sector 49 Gurgaon,Residential Apartment,3.0,4,4.0,4.0,14.0,2061.0,60000.0,4,2,3,50000.0,Gulati Associates,Dealer,Orchid Petals,29.0
+W69726428,CGHS HEWO Apartments,R,Gurgaon,Sector 56 Gurgaon,Residential Apartment,3.0,3,2.0,7.0,9.0,2000.0,45000.0,4,1,2,25000.0,metrobest properties ,Dealer,CGHS HEWO Apartments,22.0
+H69657008,Dhoot Time Residency,R,Gurgaon,Sector 63 Gurgaon,Residential Apartment,4.0,5,4.0,7.0,19.0,2400.0,65000.0,4,3,2,35000.0,metrobest properties ,Dealer,Dhoot Time Residency,27.0
+O71398386,DLF The Skycourt,R,Gurgaon,Sector 86 Gurgaon,Residential Apartment,3.0,3,1.0,11.0,19.0,1929.0,38004.0,4,1,1,18000.0,Agnayi Property Management Company,Dealer,DLF The Skycourt,20.0
+Y66821280,Bestech Park View City 2,R,Gurgaon,Sector 49 Gurgaon,Residential Apartment,4.0,5,4.0,5.0,14.0,2383.0,70000.0,1,5,2,35000.0,Agnayi Property Management Company,Dealer,Bestech Park View City 2,29.0
+E71490906,DLF The Skycourt,R,Gurgaon,Sector 86 Gurgaon,Residential Apartment,3.0,3,1.0,10.0,19.0,1929.0,38111.0,4,5,1,19000.0,Agnayi Property Management Company,Dealer,DLF The Skycourt,20.0
+Y71455026,DLF The Skycourt,R,Gurgaon,Sector 86 Gurgaon,Residential Apartment,3.0,3,4.0,10.0,19.0,1929.0,38001.0,4,4,1,19000.0,Agnayi Property Management Company,Dealer,DLF The Skycourt,20.0
+I71182192,Emaar Digihomes,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,2.0,2,2.0,8.0,32.0,1508.0,60000.0,4,3,6,50.0,Agnayi Property Management Company,Dealer,Emaar Digihomes,40.0
+I70916190,Unknown,R,Gurgaon,Sector 57 Gurgaon,Independent/Builder Floor,2.0,2,2.0,1.0,4.0,1440.0,45000.0,4,3,6,50.0,SHREE SHYAM ASSOCIATES,Dealer,Unknown,31.0
+J46522845,Ireo Victory Valley,R,Gurgaon,Sector 67 Gurgaon,Residential Apartment,3.0,3,3.0,5.0,10.0,2505.0,75000.0,4,7,1,15.0,Family and Flats,Dealer,Ireo Victory Valley,30.0
+I70445512,Emaar Digihomes,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,2.0,3,2.0,15.0,32.0,1508.0,60000.0,4,5,6,15.0,Family and Flats,Dealer,Emaar Digihomes,40.0
+N70445078,Ireo Skyon,R,Gurgaon,Sector 60 Gurgaon,Residential Apartment,4.0,5,3.0,20.0,39.0,2800.0,90000.0,4,6,2,15.0,Family and Flats,Dealer,Ireo Skyon,32.0
+S67804614,Ireo The Grand Arch,R,Gurgaon,sector 58 Gurgaon,Residential Apartment,2.0,2,1.0,2.0,29.0,1625.0,85000.0,1,5,2,50.0,Agnayi Property Management Company,Dealer,Ireo The Grand Arch,52.0
+T68925498,M3M Merlin,R,Gurgaon,Sector 67 Gurgaon,Residential Apartment,3.0,4,3.0,12.0,21.0,2358.0,85000.0,4,3,1,15.0,Agnayi Property Management Company,Dealer,M3M Merlin,36.0
+Q64824746,Emaar MGF Marbella,R,Gurgaon,Sector 66 Gurgaon,Independent House/Villa,5.0,4,4.0,6.0,4.0,3150.0,50000.0,4,1,1,15.0,City Space India Pvt. Ltd.,Dealer,Emaar MGF Marbella,16.0
+T69428950,DLF The Skycourt,R,Gurgaon,Sector 86 Gurgaon,Residential Apartment,3.0,3,1.0,16.0,19.0,1929.0,40000.0,1,3,1,20000.0,MK Realty,Dealer,DLF The Skycourt,21.0
+W71488748,Paras Quartier,R,Gurgaon,Gwal Pahari,Residential Apartment,4.0,6,4.0,11.0,43.0,6000.0,50000.0,4,1,1,15.0,City Space India Pvt. Ltd.,Dealer,Paras Quartier,8.0
+R71295072,Unknown,R,Gurgaon,Sushant Lok Phase 1,Independent/Builder Floor,4.0,4,2.0,1.0,4.0,2700.0,50000.0,4,5,6,15.0,City Properties,Dealer,Unknown,19.0
+V71024538,Unknown,R,Gurgaon,DLF Phase 1,Independent/Builder Floor,4.0,4,2.0,1.0,4.0,4842.0,50000.0,4,3,6,15.0,City Properties,Dealer,Unknown,10.0
+A70622354,DLF Carlton Estate,R,Gurgaon,DLF Phase 5,Residential Apartment,3.0,3,2.0,10.0,19.0,1400.0,60000.0,4,3,2,15.0,City Properties,Dealer,DLF Carlton Estate,43.0
+P70219132,Unknown,R,Gurgaon,Sector 43 Gurgaon,Independent/Builder Floor,1.0,1,1.0,1.0,4.0,1440.0,35000.0,1,5,6,15.0,City Properties,Dealer,Unknown,24.0
+X70173010,Unknown,R,Gurgaon,C Block Sushant Lok Phase 1,Independent/Builder Floor,4.0,4,2.0,3.0,4.0,2700.0,50000.0,4,5,6,15.0,City Properties,Dealer,Unknown,19.0
+H71739284,DLF City Phase 1,R,Gurgaon,Sector 26 Gurgaon,Independent House/Villa,4.0,5,3.0,6.0,2.0,4300.0,50000.0,4,7,2,275000.0,real estate square,Dealer,DLF City Phase 1,12.0
+Q71738946,DLF City Phase 1,R,Gurgaon,Sector 26 Gurgaon,Independent/Builder Floor,4.0,5,2.0,2.0,4.0,4100.0,50000.0,4,5,6,250000.0,real estate square,Dealer,DLF City Phase 1,12.0
+I71384084,The Close South,R,Gurgaon,Nirvana Country,Residential Apartment,3.0,4,3.0,6.0,18.0,2531.0,68000.0,4,5,2,34000.0,S.S Properties,Dealer,The Close South,27.0
+E71383764,The Close South,R,Gurgaon,Nirvana Country,Residential Apartment,3.0,4,4.0,5.0,18.0,2531.0,70000.0,4,5,2,35000.0,S.S Properties,Dealer,The Close South,28.0
+D71780774,Citizen apartment,R,Gurgaon,Sector 51 Gurgaon,Residential Apartment,4.0,4,4.0,9.0,14.0,2800.0,70000.0,4,5,3,35000.0,Harmilap Property,Dealer,Citizen apartment,25.0
+B71778850,Ansal Maple Heights,R,Gurgaon,Sector 43 Gurgaon,Residential Apartment,3.0,3,4.0,13.0,13.0,1345.0,65000.0,1,5,2,32500.0,Harmilap Property,Dealer,Ansal Maple Heights,48.0
+E71727830,Eros Wembley Estate,R,Gurgaon,Sector 50 Gurgaon,Residential Apartment,2.0,2,1.0,6.0,12.0,1040.0,36000.0,2,3,2,18000.0,Gayatri Properties,Dealer,Eros Wembley Estate,35.0
+W71727596,Eros Wembley Estate,R,Gurgaon,Sector 50 Gurgaon,Residential Apartment,3.0,3,2.0,5.0,12.0,1376.0,44000.0,4,0,2,22000.0,Gayatri Properties,Dealer,Eros Wembley Estate,32.0
+E71678204,Unknown,R,Gurgaon,C Block Sushant Lok Phase 1,Independent/Builder Floor,3.0,3,2.0,1.0,4.0,1935.0,90000.0,1,5,6,45000.0,Harmilap Property,Dealer,Unknown,47.0
+B71645632,Ansal Maple Heights,R,Gurgaon,Sector 43 Gurgaon,Residential Apartment,3.0,2,0.0,6.0,14.0,980.0,38000.0,1,3,3,19000.0,Harmilap Property,Dealer,Ansal Maple Heights,39.0
+B71598340,Ansal Sushant Apartments,R,Gurgaon,Sushant Lok Phase 1,Residential Apartment,2.0,2,1.0,6.0,13.0,1300.0,42000.0,4,3,2,21000.0,Harmilap Property,Dealer,Ansal Sushant Apartments,32.0
+R71592596,Eros Wembley Estate,R,Gurgaon,Sector 50 Gurgaon,Residential Apartment,2.0,2,1.0,9.0,12.0,1040.0,36000.0,2,1,2,18000.0,Gayatri Properties,Dealer,Eros Wembley Estate,35.0
+Y71534332,Unknown,R,Gurgaon,C Block Sushant Lok Phase 1,Independent/Builder Floor,3.0,3,3.0,6.0,2.0,1935.0,73000.0,1,3,2,37000.0,Harmilap Property,Dealer,Unknown,38.0
+V71464770,Eros Wembley Estate,R,Gurgaon,Sector 50 Gurgaon,Residential Apartment,2.0,2,1.0,5.0,12.0,1040.0,46000.0,4,1,2,23000.0,Gayatri Properties,Dealer,Eros Wembley Estate,44.0
+U71440006,DLF Exclusive Floors,R,Gurgaon,DLF Phase 5,Independent/Builder Floor,3.0,3,0.0,6.0,3.0,1550.0,80000.0,4,5,3,40000.0,Harmilap Property,Dealer,DLF Exclusive Floors,52.0
+F71365786,Unknown,R,Gurgaon,C Block Sushant Lok Phase 1,Independent/Builder Floor,3.0,3,2.0,1.0,2.0,1935.0,48000.0,4,8,2,24000.0,Harmilap Property,Dealer,Unknown,25.0
+N71428474,Ansal Sushant Apartments,R,Gurgaon,Sushant Lok Phase 1,Residential Apartment,2.0,2,1.0,11.0,13.0,1250.0,38000.0,4,4,3,19000.0,Harmilap Property,Dealer,Ansal Sushant Apartments,30.0
+F71340084,Unknown,R,Gurgaon,Sector 57 Gurgaon,Independent/Builder Floor,3.0,3,2.0,1.0,3.0,2250.0,75000.0,4,5,6,60.0,UPSHELTERS CONSULTING PRIVATE LIMITED,Dealer,Unknown,33.0
+K71322712,Suncity PLOTS,R,Gurgaon,Sector 54 Gurgaon,Independent/Builder Floor,4.0,4,4.0,2.0,4.0,9900.0,50000.0,4,1,1,50.0,UPSHELTERS CONSULTING PRIVATE LIMITED,Dealer,Suncity PLOTS,5.0
+P71297154,Ardee Palm Grove Heights,R,Gurgaon,Ardee City,Residential Apartment,3.0,4,4.0,5.0,15.0,2350.0,77000.0,4,5,3,35000.0,Harmilap Property,Dealer,Ardee Palm Grove Heights,33.0
+H71275646,Eros Wembley Estate,R,Gurgaon,Sector 50 Gurgaon,Residential Apartment,4.0,4,4.0,6.0,13.0,2224.0,62000.0,4,3,3,31000.0,Gayatri Properties,Dealer,Eros Wembley Estate,28.0
+A71120294,Bestech Park View Spa,R,Gurgaon,Sector 47 Gurgaon,Residential Apartment,3.0,5,3.0,1.0,18.0,2470.0,82000.0,4,2,1,41000.0,Gayatri Properties,Dealer,Bestech Park View Spa,33.0
+M71040728,Nirvana Country,R,Gurgaon,South City 2,Independent House/Villa,3.0,3,4.0,6.0,2.0,2100.0,70000.0,4,1,3,35000.0,Gayatri Properties,Dealer,Nirvana Country,33.0
+J71719826,La Lagune,R,Gurgaon,Sector 54 Gurgaon,Residential Apartment,4.0,6,2.0,10.0,18.0,3160.0,50000.0,4,4,1,85000.0,VICTORY REALTOR,Dealer,La Lagune,16.0
+H71697694,Emaar MGF The Vilas,R,Gurgaon,DLF Phase 2,Residential Apartment,5.0,6,4.0,12.0,14.0,4650.0,50000.0,4,3,1,125000.0,VICTORY REALTOR,Dealer,Emaar MGF The Vilas,11.0
+T71575802,Orchid Petals,R,Gurgaon,Sector 49 Gurgaon,Residential Apartment,3.0,4,3.0,7.0,14.0,2070.0,62000.0,4,3,1,31000.0,Realty solutions ,Dealer,Orchid Petals,30.0
+G9938243,DLF The Aralias,R,Gurgaon,Sector 42 Gurgaon,Residential Apartment,4.0,5,4.0,9.0,19.0,5850.0,50000.0,4,0,1,450000.0,Vashist Properties,Dealer,DLF The Aralias,9.0
+K71433778,HBH Galaxy Apartments,R,Gurgaon,Sector 43 Gurgaon,Residential Apartment,3.0,3,4.0,6.0,9.0,2450.0,60000.0,2,1,2,0.0,HOME SEARCH PROPERTY ,Dealer,HBH Galaxy Apartments,24.0
+O71426346,Parsvnath Exotica,R,Gurgaon,Sector 53 Gurgaon,Residential Apartment,3.0,4,4.0,4.0,18.0,3425.0,50000.0,4,1,1,65000.0,VICTORY REALTOR,Dealer,Parsvnath Exotica,15.0
+A71360652,DLF Park Place,R,Gurgaon,Sector 54 Gurgaon,Residential Apartment,3.0,3,4.0,15.0,30.0,2150.0,50000.0,4,3,1,75000.0,VICTORY REALTOR,Dealer,DLF Park Place,23.0
+W70786450,Emaar Emerald Hills,R,Gurgaon,Sector 65 Gurgaon,Independent/Builder Floor,3.0,3,3.0,6.0,2.0,2403.0,65000.0,4,3,1,32500.0,VICTORY REALTOR,Dealer,Emaar Emerald Hills,27.0
+P6224731,DLF The Aralias,R,Gurgaon,Sector 42 Gurgaon,Residential Apartment,4.0,5,3.0,16.0,17.0,5822.0,50000.0,4,3,2,500000.0,Vashist Properties,Dealer,DLF The Aralias,9.0
+K70925710,National Media Centre,R,Gurgaon,DLF Phase 3,Independent House/Villa,4.0,4,4.0,6.0,2.0,2160.0,90000.0,4,3,2,45000.0,VICTORY REALTOR,Dealer,National Media Centre,42.0
+N70882460,Orchid Petals,R,Gurgaon,Sector 49 Gurgaon,Residential Apartment,3.0,4,3.0,7.0,14.0,2070.0,68000.0,1,3,2,34000.0,Realty solutions ,Dealer,Orchid Petals,33.0
+Z70753302,DLF Westend Heights,R,Gurgaon,DLF Phase 5,Residential Apartment,4.0,4,3.0,18.0,20.0,2610.0,50000.0,4,5,2,100000.0,Vashist Properties,Dealer,DLF Westend Heights,19.0
+Y70543830,DLF Park Place,R,Gurgaon,Sector 54 Gurgaon,Residential Apartment,3.0,4,4.0,20.0,30.0,1983.0,50000.0,1,4,1,90000.0,VICTORY REALTOR,Dealer,DLF Park Place,25.0
+Y30986847,DLF The Pinnacle,R,Gurgaon,DLF Phase 5,Residential Apartment,4.0,4,3.0,16.0,20.0,3979.0,50000.0,4,5,2,180000.0,Vashist Properties,Dealer,DLF The Pinnacle,13.0
+L71777592,Ramprastha The Atrium,R,Gurgaon,Sector 37D Gurgaon,Residential Apartment,2.0,2,2.0,12.0,13.0,1055.0,24000.0,1,1,1,12000.0,Investors Junction,Dealer,Ramprastha The Atrium,23.0
+Z71705162,Ramprastha The View,R,Gurgaon,Sector 37C Gurgaon,Residential Apartment,3.0,3,3.0,6.0,13.0,1565.0,30000.0,1,5,1,15000.0,Investors Junction,Dealer,Ramprastha The View,19.0
+O71702124,Unknown,R,Gurgaon,Sector 47 Gurgaon,Independent/Builder Floor,4.0,4,3.0,4.0,4.0,4500.0,50000.0,1,6,1,15.0,Millennial Estates,Dealer,Unknown,11.0
+X71584744,Emaar MGF The Palm Drive,R,Gurgaon,Sector 66 Gurgaon,Residential Apartment,3.0,3,3.0,3.0,17.0,1950.0,70000.0,4,1,1,35000.0,Investors Junction,Dealer,Emaar MGF The Palm Drive,36.0
+W71549570,Unitech South City 2,R,Gurgaon,Sector 50 Gurgaon,Independent/Builder Floor,3.0,3,2.0,3.0,3.0,2200.0,55000.0,4,5,1,27500.0,Investors Junction,Dealer,Unitech South City 2,25.0
+A71473588,Emaar Emerald Hills,R,Gurgaon,Sector 65 Gurgaon,Independent/Builder Floor,4.0,4,3.0,2.0,3.0,2300.0,60000.0,4,5,1,30000.0,Investors Junction,Dealer,Emaar Emerald Hills,26.0
+W71454366,Conscient Heritage One,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,4.0,4,4.0,4.0,25.0,2527.0,74000.0,4,3,2,350000.0,Investors Junction,Dealer,Conscient Heritage One,29.0
+X71185574,Sector 43 gurgaon ,R,Gurgaon,Sector 43 Gurgaon,Independent/Builder Floor,4.0,4,4.0,6.0,4.0,1800.0,70000.0,4,3,6,3500.0,Sky home,Dealer,Sector 43 gurgaon ,39.0
+K71185410,DLF Silver Oaks,R,Gurgaon,DLF Phase 1,Independent/Builder Floor,3.0,3,3.0,1.0,3.0,4500.0,90000.0,4,5,2,4500.0,Sky home,Dealer,DLF Silver Oaks,20.0
+L63857288,Mahindra Luminare,R,Gurgaon,Sector 59 Gurgaon,Residential Apartment,4.0,5,3.0,19.0,30.0,3625.0,50000.0,4,3,6,170000.0,Investors Junction,Dealer,Mahindra Luminare,14.0
+Z68449888,M3M Merlin,R,Gurgaon,Sector 67 Gurgaon,Residential Apartment,3.0,3,3.0,8.0,21.0,2358.0,82000.0,4,2,1,80000.0,Investors Junction,Dealer,M3M Merlin,35.0
+J71169728,Emaar MGF The Palm Drive,R,Gurgaon,Sector 66 Gurgaon,Residential Apartment,3.0,3,3.0,3.0,17.0,1950.0,72000.0,4,5,1,36000.0,Investors Junction,Dealer,Emaar MGF The Palm Drive,37.0
+F62988232,Pioneer Urban Presidia,R,Gurgaon,Sector 62 Gurgaon,Residential Apartment,4.0,4,3.0,12.0,27.0,3890.0,50000.0,4,5,6,150000.0,Investors Junction,Dealer,Pioneer Urban Presidia,13.0
+P71006066,Emaar MGF The Enclave,R,Gurgaon,Sector 66 Gurgaon,Residential Apartment,3.0,3,3.0,5.0,16.0,1996.0,67000.0,4,5,1,33500.0,Investors Junction,Dealer,Emaar MGF The Enclave,34.0
+J70988656,DLF Park Place,R,Gurgaon,Sector 54 Gurgaon,Residential Apartment,3.0,4,4.0,28.0,30.0,2315.0,50000.0,4,4,2,75000.0,Investors Junction,Dealer,DLF Park Place,22.0
+O70510916,Ramprastha Primera,R,Gurgaon,Sector 37D Gurgaon,Residential Apartment,3.0,3,3.0,9.0,22.0,1775.0,32000.0,4,5,1,15000.0,Investors Junction,Dealer,Ramprastha Primera,18.0
+E71183590,Suncity Essel Towers,R,Gurgaon,Sector 28 Gurgaon,Residential Apartment,4.0,5,4.0,15.0,17.0,2734.0,70000.0,4,8,3,40000.0,Mk Realtors,Dealer,Suncity Essel Towers,26.0
+E71789162,DLF Westend Heights,R,Gurgaon,DLF Phase 5,Residential Apartment,3.0,5,3.0,11.0,20.0,2610.0,50000.0,1,2,3,80000.0,Mk Realtors,Dealer,DLF Westend Heights,19.0
+H71789058,DLF Westend Heights,R,Gurgaon,DLF Phase 5,Residential Apartment,4.0,5,3.0,12.0,20.0,2610.0,50000.0,1,2,3,100000.0,Mk Realtors,Dealer,DLF Westend Heights,19.0
+H71754274,International City by Sobha Phase 1,R,Gurgaon,Sector 109 Gurgaon,Independent House/Villa,6.0,7,4.0,6.0,2.0,8000.0,50000.0,4,3,1,160000.0,Rentiers.in,Dealer,International City by Sobha Phase 1,6.0
+I71753810,Signature Global the Millennia,R,Gurgaon,Sector 37D Gurgaon,Residential Apartment,2.0,2,3.0,6.0,23.0,700.0,19500.0,4,3,1,10000.0,Rentiers.in,Dealer,Signature Global the Millennia,28.0
+Q71753750,ATS Tourmaline,R,Gurgaon,Sector 109 Gurgaon,Residential Apartment,6.0,6,4.0,26.0,27.0,7400.0,50000.0,4,3,1,100000.0,Rentiers.in,Dealer,ATS Tourmaline,7.0
+M71726540,Suncity Essel Towers,R,Gurgaon,Sector 28 Gurgaon,Residential Apartment,3.0,3,3.0,5.0,5.0,1800.0,65000.0,1,3,3,40000.0,Mk Realtors,Dealer,Suncity Essel Towers,36.0
+U71430614,International City by Sobha Phase 1,R,Gurgaon,Sector 109 Gurgaon,Independent House/Villa,5.0,5,4.0,6.0,2.0,6000.0,85000.0,4,5,1,85000.0,Rentiers.in,Dealer,International City by Sobha Phase 1,14.0
+T71619328,Adani M2K Oyster Grande,R,Gurgaon,Sector 102 Gurgaon,Residential Apartment,4.0,4,4.0,8.0,24.0,3198.0,42000.0,4,5,1,22000.0,Rentiers.in,Dealer,Adani M2K Oyster Grande,13.0
+X71567880,Bestech Park View City 2,R,Gurgaon,Sector 49 Gurgaon,Residential Apartment,3.0,4,4.0,9.0,14.0,1859.0,55000.0,4,5,3,27500.0,Mk Realtors,Dealer,Bestech Park View City 2,30.0
+C71411788,Tata Gurgaon Gateway,R,Gurgaon,Sector 113 Gurgaon ,Residential Apartment,3.0,3,3.0,18.0,24.0,2225.0,47000.0,4,3,1,25000.0,Rentiers.in,Dealer,Tata Gurgaon Gateway,21.0
+Q71276788,Adani M2K Oyster Grande,R,Gurgaon,Sector 102 Gurgaon,Residential Apartment,3.0,4,3.0,11.0,24.0,1889.0,32000.0,4,3,1,16000.0,Rentiers.in,Dealer,Adani M2K Oyster Grande,17.0
+E71236066,Godrej Summit,R,Gurgaon,Sector 104 Gurgaon,Residential Apartment,3.0,4,4.0,11.0,17.0,1844.0,30000.0,4,5,1,20000.0,Rentiers.in,Dealer,Godrej Summit,16.0
+W71177210,Godrej Summit,R,Gurgaon,Sector 104 Gurgaon,Residential Apartment,2.0,2,4.0,6.0,17.0,1269.0,23000.0,4,3,1,12000.0,Rentiers.in,Dealer,Godrej Summit,18.0
+T71175962,Adani M2K Oyster Grande,R,Gurgaon,Sector 102 Gurgaon,Residential Apartment,3.0,4,3.0,17.0,24.0,2550.0,55000.0,1,3,1,35000.0,Rentiers.in,Dealer,Adani M2K Oyster Grande,22.0
+R71154346,Emaar Gurgaon Greens,R,Gurgaon,Sector 102 Gurgaon,Residential Apartment,3.0,3,3.0,6.0,14.0,1650.0,26500.0,4,5,1,14000.0,Rentiers.in,Dealer,Emaar Gurgaon Greens,16.0
+L71147218,International City by Sobha Phase 1,R,Gurgaon,Sector 109 Gurgaon,Independent House/Villa,5.0,6,3.0,6.0,2.0,4500.0,80000.0,4,5,1,80000.0,Rentiers.in,Dealer,International City by Sobha Phase 1,18.0
+E71124744,Emaar The Palm Springs,R,Gurgaon,Sector 54 Gurgaon,Residential Apartment,4.0,6,3.0,8.0,17.0,3886.0,50000.0,4,6,3,225000.0,Mk Realtors,Dealer,Emaar The Palm Springs,13.0
+D70943764,Mahindra Luminare,R,Gurgaon,Sector 59 Gurgaon,Residential Apartment,4.0,6,2.0,25.0,30.0,3650.0,50000.0,4,6,1,185000.0,Mk Realtors,Dealer,Mahindra Luminare,14.0
+I68202246,Indiabulls Enigma,R,Gurgaon,Sector 110 Gurgaon,Residential Apartment,4.0,5,3.0,8.0,15.0,3400.0,46000.0,4,3,1,24000.0,Preesha Properties,Dealer,Indiabulls Enigma,14.0
+D70838212,DLF The Belaire,R,Gurgaon,Sector 54 Gurgaon,Residential Apartment,4.0,5,3.0,7.0,30.0,2917.0,50000.0,1,7,2,125000.0,Mk Realtors,Dealer,DLF The Belaire,17.0
+O70831810,DLF Westend Heights,R,Gurgaon,DLF Phase 5,Residential Apartment,4.0,5,3.0,10.0,20.0,2610.0,50000.0,4,1,3,100000.0,Mk Realtors,Dealer,DLF Westend Heights,19.0
+C71292902,Vipul Greens,R,Gurgaon,Sector 48 Gurgaon,Residential Apartment,3.0,4,3.0,6.0,14.0,1860.0,60000.0,4,5,2,1.0,Jai Realty Services,Dealer,Vipul Greens,32.0
+D70798730,DLF City Plots Phase 2,R,Gurgaon,DLF Phase 2,Independent/Builder Floor,3.0,3,2.0,1.0,2.0,2700.0,70000.0,1,5,2,70000.0,S.P consultants ,Dealer,DLF City Plots Phase 2,26.0
+J70853710,Vipul Tatvam Villa,R,Gurgaon,Sector 48 Gurgaon,Independent House/Villa,3.0,5,4.0,6.0,2.0,287.0,50000.0,1,5,1,149000.0,Ganganiya  Realtors,Dealer,Vipul Tatvam Villa,174.0
+D71790274,Malibu Towne,R,Gurgaon,Malibu Town,Independent/Builder Floor,3.0,3,4.0,1.0,2.0,2000.0,60000.0,1,5,2,50.0,Ankur Associates,Dealer,Malibu Towne,30.0
+S71746678,Pyramid Urban,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,2.0,2,1.0,12.0,14.0,591.0,25000.0,4,3,1,12500.0,Landmark estate pvt.Ltd.,Dealer,Pyramid Urban,42.0
+Y71702772,Pyramid Urban,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,2.0,2,1.0,3.0,14.0,591.0,37000.0,1,5,1,18000.0,Landmark estate pvt.Ltd.,Dealer,Pyramid Urban,63.0
+S71695718,AIPL The Peaceful Homes,R,Gurgaon,Sector 70A Gurgaon,Residential Apartment,3.0,4,4.0,25.0,30.0,2000.0,60000.0,4,5,6,50.0,Ankur Associates,Dealer,AIPL The Peaceful Homes,30.0
+D71642328,Pyramid Urban,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,2.0,2,1.0,6.0,14.0,591.0,22000.0,4,3,1,11000.0,Landmark estate pvt.Ltd.,Dealer,Pyramid Urban,37.0
+V71596700,Pyramid Urban,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,2.0,2,2.0,10.0,15.0,700.0,36000.0,1,3,1,17000.0,Landmark estate pvt.Ltd.,Dealer,Pyramid Urban,51.0
+X71596814,Pyramid Urban,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,2.0,2,2.0,5.0,15.0,700.0,24000.0,4,8,1,12000.0,Landmark estate pvt.Ltd.,Dealer,Pyramid Urban,34.0
+J71642638,Pyramid Urban,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,2.0,2,1.0,9.0,14.0,591.0,35000.0,1,5,1,17000.0,Landmark estate pvt.Ltd.,Dealer,Pyramid Urban,59.0
+Q71587110,Pyramid Urban,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,2.0,2,2.0,10.0,14.0,700.0,35000.0,4,7,1,16500.0,Landmark estate pvt.Ltd.,Dealer,Pyramid Urban,50.0
+A71580678,Malibu Towne,R,Gurgaon,Malibu Town,Independent/Builder Floor,2.0,2,2.0,3.0,4.0,600.0,32000.0,1,5,2,50.0,Ankur Associates,Dealer,Malibu Towne,53.0
+P71527594,Pyramid Urban,R,Gurgaon,Sector 67A Gurgaon,Residential Apartment,2.0,2,2.0,9.0,15.0,598.0,31500.0,1,5,1,16500.0,koncept realty ,Dealer,Pyramid Urban,53.0
+T71457236,Unitech Deerwood Chase,R,Gurgaon,Nirvana Country,Independent House/Villa,3.0,3,4.0,6.0,2.0,4500.0,50000.0,4,6,3,50000.0,Ankur Associates,Dealer,Unitech Deerwood Chase,11.0
+N71447226,Unitech Deerwood Chase,R,Gurgaon,Nirvana Country,Independent House/Villa,3.0,3,4.0,6.0,3.0,4500.0,50000.0,4,5,2,50.0,Ankur Associates,Dealer,Unitech Deerwood Chase,11.0
+S71446938,Tulip Ivory,R,Gurgaon,Sector 70 Gurgaon,Residential Apartment,4.0,4,4.0,6.0,12.0,2400.0,52000.0,4,5,2,50.0,Ankur Associates,Dealer,Tulip Ivory,22.0
+B71427612,Unitech Deerwood Chase,R,Gurgaon,Nirvana Country,Independent House/Villa,3.0,4,4.0,6.0,2.0,4500.0,50000.0,4,4,2,50000.0,Ankur Associates,Dealer,Unitech Deerwood Chase,11.0

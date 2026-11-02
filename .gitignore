@@ -1,0 +1,15 @@
+# Python / notebook local artifacts
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+.venv/
+venv/
+
+# Power BI temporary / backup files
+*.tmp
+*.bak
+~$*
+
+# OS files
+.DS_Store
+Thumbs.db
