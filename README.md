@@ -1,10 +1,12 @@
+# Gurgaon Real Estate Market & Opportunity Analytics
+
 <CodeBlock language="html" editable>
 <p align="center">
   <img src="images/project-cover.png" alt="Gurgaon Real Estate Market & Opportunity Analytics" width="100%">
 </p>
 </CodeBlock>
 ```
-# Gurgaon Real Estate Market & Opportunity Analytics
+
 
 ### 99acres · Python EDA · Power BI · Residential Sales & Rental Markets
 
